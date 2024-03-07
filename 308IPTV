@@ -249,12 +249,6 @@
 "import": "true"
 },
 
-{
-"name": "Cartoon BY ดูเพื่อความบันเทิง BY เจียว เจียว  ",
-"image": "https://assets-prd.ignimgs.com/2022/08/17/top25animecharacters-slideshow-1660779038818.jpg",
-"url": "https://github.com/WerapongSaejung/doonungfreefree/tree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/7-11/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99",
-"import": "true"
-},
 
 {
 "name": "Anime WINTV ",
@@ -337,6 +331,12 @@
 "import": true
 },
 
+{
+"name": "PLAY INTER ENTERTAINMENT 2  ",
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Interplay_Entertainment_logo_colored.png",
+"url": "https://freenote.biz/raw/elEVuH0VQB",
+"import": true
+},
 
 {
 "name": "รวมดูกีฬา SPORT ",
@@ -563,7 +563,12 @@
 "import": true
 },
  
-
+{
+"name"              :     "หนังไทย THAI MOVIES",
+"image"             :     "https://img5.pic.in.th/file/secure-sv1/imagesc45866c90bd67932.jpeg",
+"url"               :     "https://pastebin.com/UsdwcUuU",
+"import": true
+},
 
 {
 "name": " ก๊อบมั๊ย Group Channel",
@@ -731,6 +736,13 @@
 "author": "SuperMovie",
 "image": "https://mpics.mgronline.com/pics/Images/562000004025601.JPEG",
 "url": "https://docs.google.com/uc?export=download&id=1fZ7l9YpaWb6bEU55Sr19svh2HF_vO97a",
+"import": "true"
+},
+
+{
+"name": "อุ๋ง อุ๋ง ปันสุข",
+"image": "https://lh3.googleusercontent.com/-Xy3JbqRLA6g/ZOTpGaGiaAI/AAAAAAAAAI4/9j63PXk6OAop1iX2nRswG-cqfff5T1WRgCNcBGAsYHQ/h120/images.png",
+"url": "https://raw.githubusercontent.com/Infinity-000/AV-Subthai/master/all.w3u",
 "import": "true"
 },
 
