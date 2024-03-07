@@ -311,6 +311,12 @@
 "import": "true"
 },
 
+{
+"name": "TrueVisions NOW ",
+"image": "https://scontent.fbkk29-4.fna.fbcdn.net/v/t39.30808-6/310275082_434285532193897_8565945897712224221_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=C3IiI3eo7FsAX-RmU6D&_nc_ht=scontent.fbkk29-4.fna&oh=00_AfA_wxf7X4jbJMpow6NPXlu8dyj_XVumBUV9dCG3EMZpnQ&oe=65D8B69F",
+"url": "https://dl.dropbox.com/s/s2pgfbl88iwcy2r/tvplayidtv.txt?dl=0",
+"import": true
+},
 
 {
 "name": "PLAY INTER ENTERTAINMENT ",
@@ -318,6 +324,7 @@
 "url": "https://bit.ly/3SiDy5A",
 "import": true
 },
+
 
 {
 "name": "รวมดูกีฬา SPORT ",
@@ -334,24 +341,16 @@
 },
 
 {
+"name": "Sports Channel",
+"image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2019/10/live-sports-news-1-1571384768.jpg",
+"url": "https://freenote.biz/raw/hAaIjbTIN8",
+"import": true
+},
+
+{
 "name": "Sports INTER Channel",
 "image": "https://i.pinimg.com/originals/fe/e9/38/fee93884c8fbde669046d558d9c93141.jpg",
 "url": "https://freenote.biz/raw/7OWhhJBzYa",
-"import": true
-},
-
-{
-"name": "Sports ALL M3U INTER IPTV",
-"image": "https://images-platform.99static.com/M87CTMnUXxyWnZChcJRYSuF8jP4=/500x500/top/smart/99designs-contests-attachments/56/56834/attachment_56834591",
-"url": "https://iptv-org.github.io/iptv/categories/sports.m3u",
-"import": true
-},
-
-
-{
-"name": "Sports Channel",
-"image": "https://dooball2you.com/wp-content/uploads/2023/09/cropped-dooball2you.png",
-"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/dooball2you_live_tv.w3u",
 "import": true
 },
 
@@ -361,6 +360,28 @@
 "url": "https://pastebin.com/raw/5nSfKa0c",
 "import": true
 },
+
+{
+"name": "รวมกีฬาดูบอล ช่องกีฬา ace",
+"image": "https://yt3.googleusercontent.com/ytc/AIf8zZTeXMihZQhfOn-r4OK4kCzEtAilKQMuJxqWVJfrhA=s900-c-k-c0x00ffffff-no-rj",
+"url": "https://pastebin.com/raw/xJ09e436",
+"import": true
+},
+
+{
+"name"              :     "Acestream SPORT",
+"image"             :     "https://www.tech-and-dev.com/blog/wp-content/uploads/2018/07/acestreamlogo.png",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ace",
+"import": false
+}, 
+
+{
+"name": "Sports ALL M3U INTER IPTV",
+"image": "https://images-platform.99static.com/M87CTMnUXxyWnZChcJRYSuF8jP4=/500x500/top/smart/99designs-contests-attachments/56/56834/attachment_56834591",
+"url": "https://iptv-org.github.io/iptv/categories/sports.m3u",
+"import": true
+},
+
 
 {
 "name": "Sport Inter New Channel",
@@ -382,23 +403,6 @@
 "url": "https://freenote.biz/raw/Sbc5sHPCP8",
 "import": true
 },
-
-
-{
-"name": "รวมกีฬาดูบอล ช่องกีฬา ace",
-"image": "https://yt3.googleusercontent.com/ytc/AIf8zZTeXMihZQhfOn-r4OK4kCzEtAilKQMuJxqWVJfrhA=s900-c-k-c0x00ffffff-no-rj",
-"url": "https://pastebin.com/raw/xJ09e436",
-"import": true
-},
-
-{
-"name"              :     "Acestream SPORT",
-"image"             :     "https://www.tech-and-dev.com/blog/wp-content/uploads/2018/07/acestreamlogo.png",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ace",
-"import": false
-}, 
-
-
 
 {
 "name": " IPTV Channel PLAYIDTV-WISEPLAY",
@@ -429,12 +433,6 @@
 "import": true
 },
 
-{
-"name": "TV ONLINE.TXT ",
-"image": "https://luginashop.com/wp-content/uploads/2017/05/756892.png",
-"url": "https://pastebin.com/raw/D2Fyyrrg",
-"import": true
-},
 
 {
 "name": "Bata-Playlists ",
@@ -443,16 +441,9 @@
 "import":"false"
 },
 
-{
-"name": "TrueVisions NOW ",
-"image": "https://scontent.fbkk29-4.fna.fbcdn.net/v/t39.30808-6/310275082_434285532193897_8565945897712224221_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=C3IiI3eo7FsAX-RmU6D&_nc_ht=scontent.fbkk29-4.fna&oh=00_AfA_wxf7X4jbJMpow6NPXlu8dyj_XVumBUV9dCG3EMZpnQ&oe=65D8B69F",
-"url": "https://dl.dropbox.com/s/s2pgfbl88iwcy2r/tvplayidtv.txt?dl=0",
-"import": true
-},
-
 
 {
-"name": "INTER Channel  ",
+"name": "INTER Channel IPTV  ",
 "image": "https://st.depositphotos.com/1265075/3151/i/950/depositphotos_31518521-stock-photo-international-global-business-concept.jpg",
 "url": "https://iptv-org.github.io/iptv/index.country.m3u",
 "import": true
@@ -472,12 +463,7 @@
 "import": true
 }, 
  
-{
-"name": "World Television Channel 2  ",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPntZCSwMsiWg2MkyoSg_he-OJuEph7YxaQ_5q8ki8hhSvYFqhGEocAAp0mfROuenDCTs&usqp=CAU",
-"url": "https://iptv-org.github.io/iptv/categories/entertainment.m3u",
-"import": true
-}, 
+
 
 
 {
@@ -495,26 +481,32 @@
 },
 {
 "name": "MOVIE MOOSEVEN",
-"image": "https://mooseven2211.online/PHOTO/COVER_MOVIES.gif",
+"image": "https://cdn.mos.cms.futurecdn.net/jeHjE3iExRNKARQ9K7hRWC.jpg",
 "url": "https://mooseven2211.online/playlist/07MOVIE/ปกหนัง2.txt",
 "import": true
 }, 
 
 {
 "name": "SERIES MOOSEVEN",
-"image": "https://mooseven2211.online/PHOTO/COVER_SERIES.gif",
+"image": "https://logos.flamingtext.com/Word-Logos/series-design-amped-logo.png",
 "url": "https://mooseven2211.online/playlist/08Series/ปกซีรีย์2.txt",
 "import": true
 }, 
 
 
 {
-"name": "MOOSEVEN FREE ",
+"name": "MOOSEVEN หนังรวม รวม FREE ",
 "image": "https://pngimg.com/uploads/free/free_PNG90775.png",
 "url": "https://bit.ly/MixLifePlay112",
 "import": true
 },
 
+{
+"name": "Thai Series By SOMYOD UPDATE",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd4Jz99vDpTshGmIgNG6POVxbCpooq4z6GwvW5uflXDg7H39f4hoNQg_Np2RO2NdXQ5t0&usqp=CAU",
+"url": "https://freenote.biz/raw/BRfCVb6SfL",
+"import": false
+},
 
 {
 "name": " Tvallseries ","image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
@@ -568,12 +560,6 @@
 "import": true
 },
 
-{
-"name": "Thai Series By SOMYOD UPDATE",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd4Jz99vDpTshGmIgNG6POVxbCpooq4z6GwvW5uflXDg7H39f4hoNQg_Np2RO2NdXQ5t0&usqp=CAU",
-"url": "https://freenote.biz/raw/BRfCVb6SfL",
-"import": false
-},
 
 {
 "name": "Luxdo TheMovieS",
