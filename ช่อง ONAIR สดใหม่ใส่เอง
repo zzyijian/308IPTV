@@ -1,7 +1,6 @@
 #EXTM3U 
 
 #EXTINF:-1 group-title="ถ่ายทอดสด LIVE " tvg-id="" tvg-logo="https://bit.ly/42iIWtP", SPORTS LIVE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge-la.onlineprostream.com:9092/v5/BHsW-whZVDmXb8EALv1A3w/1709893291/02511474812bdb6f7b5d1da1f30f0744/Zk_AtmyMkLFc3JasIReK5g/1709903971/live/lx-origin/dooball66-spotv2_720/playlist.m3u8
 
 
