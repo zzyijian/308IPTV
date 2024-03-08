@@ -1,7 +1,30 @@
-#EXTM3U 
+{
+"name": "Live Sports TH",  
+"image": "https://sv1.picz.in.th/images/2022/06/04/HJxgbW.jpg",  
+"url": "https://drive.google.com/uc?id=1gXMnrld_-NKmPVKYaR8--M5VFEOTrukz",
+"import": false},
 
-#EXTINF:-1 group-title="ถ่ายทอดสด LIVE " tvg-id="" tvg-logo="https://bit.ly/42iIWtP", SPORTS LIVE 1
-#EXTVLCOPT:http-referrer=https://www.037hdmovie.com
-https://edge-la.onlineprostream.com:9092/v5/BHsW-whZVDmXb8EALv1A3w/1709893291/02511474812bdb6f7b5d1da1f30f0744/Zk_AtmyMkLFc3JasIReK5g/1709903971/live/lx-origin/dooball66-spotv2_720/playlist.m3u8
+{
+"name": "Sport World",  
+"image": "https://sv1.picz.in.th/images/2022/06/04/HJtoOu.png",  
+"url": "https://drive.google.com/uc?id=15F9x0YV5I_0LzYiEyWHJXcVK1ewEeGnL",
+"import": false},
+
+{
+"name": " Thai League",  
+"image": "https://sv1.picz.in.th/images/2021/11/22/6fqYsu.jpg",  
+"url": "https://drive.google.com/uc?id=1nWW0GlJKblFe2Hwp3bXC4DJ3dZFdfYyw",
+"import": false},
+
+{
+"name": " Live Football by Sakchai",
+"image":"https://img2.pic.in.th/pic/asian-c.jpeg",
+"url":"https://www.dropbox.com/scl/fi/99gu2eaelm2kk2tsbvrm4/AFC.w3u?rlkey=8adnl7xv17lusjhpi1ua2gt3x&dl=1",
+"import": false},         
+
+   ]
+}, 
 
 
+   ]
+},
