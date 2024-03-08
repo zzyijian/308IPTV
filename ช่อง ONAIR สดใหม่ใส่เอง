@@ -1,37 +1,13 @@
-{	
-	"name": "Sport TV  ",
-	"author": "",
- "image": "https://png.pngtree.com/png-clipart/20230114/original/pngtree-live-sports-clipart-image-download-png-image_8908713.png",
-	  "url": "   ",
+#EXTM3U
+#EXTINF:-1,tvg-logo="https://png.pngtree.com/png-clipart/20230114/original/pngtree-live-sports-clipart-image-download-png-image_8908713.png",Live Sports TH
+https://drive.google.com/uc?id=1gXMnrld_-NKmPVKYaR8--M5VFEOTrukz
 
-  "groups":                                   
-[
+#EXTINF:-1,tvg-logo="https://sv1.picz.in.th/images/2022/06/04/HJtoOu.png",Sport World
+https://drive.google.com/uc?id=15F9x0YV5I_0LzYiEyWHJXcVK1ewEeGnL
 
-{
-"name": "Live Sports TH",  
-"image": "https://sv1.picz.in.th/images/2022/06/04/HJxgbW.jpg",  
-"url": "https://drive.google.com/uc?id=1gXMnrld_-NKmPVKYaR8--M5VFEOTrukz",
-"import": false},
+#EXTINF:-1,tvg-logo="https://sv1.picz.in.th/images/2021/11/22/6fqYsu.jpg",Thai League
+https://drive.google.com/uc?id=1nWW0GlJKblFe2Hwp3bXC4DJ3dZFdfYyw
 
-{
-"name": "Sport World",  
-"image": "https://sv1.picz.in.th/images/2022/06/04/HJtoOu.png",  
-"url": "https://drive.google.com/uc?id=15F9x0YV5I_0LzYiEyWHJXcVK1ewEeGnL",
-"import": false},
-
-{
-"name": " Thai League",  
-"image": "https://sv1.picz.in.th/images/2021/11/22/6fqYsu.jpg",  
-"url": "https://drive.google.com/uc?id=1nWW0GlJKblFe2Hwp3bXC4DJ3dZFdfYyw",
-"import": false},
-
-{
-"name": " Live Football by Sakchai",
-"image":"https://img2.pic.in.th/pic/asian-c.jpeg",
-"url":"https://www.dropbox.com/scl/fi/99gu2eaelm2kk2tsbvrm4/AFC.w3u?rlkey=8adnl7xv17lusjhpi1ua2gt3x&dl=1",
-"import": false},         
-
-   ]
-},    ]
-}, 
+#EXTINF:-1,tvg-logo="https://img2.pic.in.th/pic/asian-c.jpeg",Live Football by Sakchai
+https://www.dropbox.com/scl/fi/99gu2eaelm2kk2tsbvrm4/AFC.w3u?rlkey=8adnl7xv17lusjhpi1ua2gt3x&dl=1
 
