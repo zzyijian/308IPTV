@@ -1,25 +1,6 @@
 #EXTM3U 
 
 
-url-tvg="https://playidtv.vercel.app/ais/guide.xml, https://playidtv.vercel.app/ais/thailand.xml" m3uautoload=1 cache=500 deinterlace=1 user_message="VOD+Series" vod_library="https://dl.dropbox.com/scl/fi/pi7nw6zhqgwo8clkwndx1/.m3u?rlkey=pfywyfg7eeckroz9lwolebrq8&dl=0",
-
-
-"url="https://2nud.short.gy",
-
-
-
-
-#EXTINF:-1 " tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/wEvlUSk7FxHZD0M0cIXIi_apmGI=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/146/vidio-nonton-gratis-8a98d6.png" group-title="ข้อมูล", อัพทุก24ชม
-https://playidtv.vercel.app/
-#EXTINF:-1 " tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/LoyKatong_IconTV.png" group-title="ข้อมูล", (05:06)(2/2/24)
-https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/BQdq7_9MOklqngtkv/videoblocks-61dc77e29afa4f098010ed94_rwzecn-ak__7cb6c27a74e0204cc321dc71b4a076b0__P360.mp4
-#https://heylink.me/playidtv/
-#https://dl.dropboxusercontent.com/scl/fi/3p0hppb6guzfxhectmk2w/online.txt?rlkey=6qh12sv1u7ay2jss74v5t73q7&dl=0
-
-
-
-
-
 #EXTINF:-1 group-title="English Premier League" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/55Z2Hxv4GsrzqrtldNDZg5xRclc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3202784/d66ce6.jpg",19:30 อาร์เซน่อล vs คริสตัล พาเลซ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #https://wacthstream.com/stream_live/600_eng1./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI0IDM6MDU6MDggUE0maGFzaF92YWx1ZT11cU9NenRWb1F3VDMwZmVrRkx5UkJnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTUyNDU=|Referer=https://wacth.tv
