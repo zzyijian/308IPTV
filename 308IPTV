@@ -192,6 +192,27 @@
 "import": "true"
 },
 
+{
+"name": "PLAYIDTV UPDATE",
+"image": "https://scontent.fbkk12-3.fna.fbcdn.net/v/t39.30808-1/300380754_380826954227360_6682412688790040007_n.png?stp=dst-png_p120x120&_nc_cat=102&ccb=1-7&_nc_sid=4da83f&_nc_ohc=Q2Qze28FV7oAX_jcQL2&_nc_ht=scontent.fbkk12-3.fna&oh=00_AfC4k7QTyZ-JqL2SytPaKK1Yf10sIjHrarbO4CinclWc2A&oe=65E4E739",
+"url": "https://dl.dropboxusercontent.com/s/v63aervv93l2cq1/playidtvlink.w3u",
+"import": "true"
+},
+
+{
+"name": "IPTV Socity 2024",
+"image": "https://leviathyn.com/wp-content/uploads/2019/05/0e621f867e8289db037088761b6d4ba8.jpeg",
+"url": "https://drive.google.com/uc?id=1C_DvhHvevu9v8yLI1CedFZG83GY2OI1V",
+"import": true
+}, 
+
+{
+"name": "TJC_CH FREE ",
+"image": "https://raw.githubusercontent.com/tongtjc/Pic/main/Ch.png?",
+"url": "https://raw.githubusercontent.com/tongtjc/movie_add/main/mylist",
+"import": true
+}, 
+
 ]}
 ]}
 ]}
