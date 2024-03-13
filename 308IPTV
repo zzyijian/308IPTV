@@ -248,6 +248,41 @@
 "import": "true"
 },
 
+{
+"name": "Sports True Channel",
+"image": "https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",
+"url": "https://drive.google.com/uc?id=12Y6U1CraWkgjkK2aDZ17OoNHfN7ek3as",
+"import": true
+},
+
+{
+"name": "Sports INTER Channel",
+"image": "https://i.pinimg.com/originals/fe/e9/38/fee93884c8fbde669046d558d9c93141.jpg",
+"url": "https://freenote.biz/raw/7OWhhJBzYa",
+"import": true
+},
+
+{
+"name": "รวมดูกีฬา SPORT ",
+"image": "https://as2.ftcdn.net/v2/jpg/03/02/12/83/1000_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",
+"url": "https://freenote.biz/raw/aTA06lbUgx",
+"import": true
+},
+
+{
+"name": "BeinSport Channel",
+"image": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw",
+"url": "https://pastebin.com/raw/5nSfKa0c",
+"import": true
+},
+
+{
+"name"              :     "Acestream SPORT",
+"image"             :     "https://www.tech-and-dev.com/blog/wp-content/uploads/2018/07/acestreamlogo.png",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ace",
+"import": false
+}, 
+
 ]}
 ]}
 ]}
