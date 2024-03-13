@@ -213,6 +213,41 @@
 "import": true
 }, 
 
+{
+"name": " DOCUMENTARY สารคดี ",
+"image": "https://www.sarakadee.com/wp-content/uploads/logo3.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1fTi3XEFsZBY7X2gRKJf3-zs4U022ljrn"
+},
+
+
+{
+"name": " GOOD TV Channel",
+"image": "https://tv.co.th/wp-content/uploads/2019/11/goodtv-logo-2019-1.jpg",
+"url": "https://freenote.biz/raw/wi3LHIgVz1",
+"import": true
+},
+
+{
+"name": "CARTOON Channel",
+"image": "https://yt3.googleusercontent.com/iIAVggrPoKaTEnmlp-9qVzpslOmo3_Qb83zhYziZyNfZO9XbBP-JDXv3qIl5O6_btlCnoVg4=s176-c-k-c0x00ffffff-no-rj?w=1380&t=st=1707999870~exp=1708000470~hmac=f3c6079179413041fb981d7fea98a468b0160345b91543c97c1f36488b96e9ac",
+"url": "https://drive.google.com/uc?export=download&id=1R8L6UzJPFXZlFUcc3cAVrHs5te-gvdEZ",
+"import": true
+},
+
+{
+"name": "Anime ZONE ",
+"image": "https://scontent.fbkk29-7.fna.fbcdn.net/v/t39.30808-6/300841525_479494374181730_1281415329608161448_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=bEHwDIE7rXcAX-4ORWV&_nc_ht=scontent.fbkk29-7.fna&oh=00_AfBLtPMOSktQYFgQR3gqcwjsu1G6oLeMCYunN3rMxW8hJQ&oe=65D9A319",
+"url": "https://drive.google.com/uc?id=12fPCO3LiTf_XmVHK_EAldqiBkaEbyKaB",
+"import": "true"
+},
+
+{
+"name": "คลังหนัง + ซีรี่ย์ + อะนิเมะ",
+"image": "https://steamuserimages-a.akamaihd.net/ugc/823440303646988829/057D4CB42766804CD18CC5E9850FCC6B2C9B9388/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+"url": "https://drive.google.com/uc?id=1Ko0-v-qBpxQHh4eh347YsECCj7AVqKc6",
+"import": "true"
+},
+
 ]}
 ]}
 ]}
