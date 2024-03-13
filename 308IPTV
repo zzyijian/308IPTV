@@ -199,7 +199,6 @@
 "import": true
 },
 
-
 {
 "name": "MUSIC Channel จัดทำเอง ",
 "image": "https://media1.tenor.com/m/xoq0Xxd13koAAAAC/anime-music.gif",
@@ -207,16 +206,12 @@
 "import": true
 },
 
-
 {
 "name": "IPTV Socity 2024",
 "image": "https://leviathyn.com/wp-content/uploads/2019/05/0e621f867e8289db037088761b6d4ba8.jpeg",
 "url": "https://drive.google.com/uc?id=1C_DvhHvevu9v8yLI1CedFZG83GY2OI1V",
 "import": true
 }, 
-
-
-
 
 {
 "name": "PLAYIDTV 2024 ",
@@ -267,14 +262,12 @@
 "import": "true"
 },
 
-
 {
 "name": "CARTOON วัยเด็กยุค 90  ",
 "image": "https://img1.picmix.com/output/pic/normal/4/2/7/0/11250724_6a38e.gif",
 "url": "https://pastebin.com/raw/aHkkRRuu",
 "import": "true"
 },
-
 
 {
 "name": "Anime WINTV ",
@@ -291,15 +284,12 @@
 "import": "true"
 },
 
-
-
 {
 "name": "My Playlist by AAP.Bang-Pun UPDATE",
 "image": "https://cdn-b.heylink.me/media/users/og_image/05fb2d12bc314d20b73dcc4787ced93a.webp",
 "url": "https://pastebin.com/raw/RDZnkwyp",
 "import": "true"
 },
-
 
 {
 "name":"Jackie Tv",
@@ -324,7 +314,6 @@
 "import": true
 },
 
-
 {
 "name": "รวมดูกีฬา SPORT ",
 "image": "https://as2.ftcdn.net/v2/jpg/03/02/12/83/1000_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",
@@ -346,8 +335,6 @@
 "import": true
 },
 
-
-
 {
 "name": "BeinSport Channel",
 "image": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw",
@@ -355,15 +342,12 @@
 "import": true
 },
 
-
-
 {
 "name"              :     "Acestream SPORT",
 "image"             :     "https://www.tech-and-dev.com/blog/wp-content/uploads/2018/07/acestreamlogo.png",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ace",
 "import": false
 }, 
-
 ]}
 ]}
 ]}
