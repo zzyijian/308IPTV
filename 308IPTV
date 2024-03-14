@@ -105,6 +105,13 @@
 }, 
 
 {
+"name": "ดูหนังกลุ่มแบ่งปัน BY Super326 ",
+"image": "https://www.dailynews.co.th/wp-content/uploads/2023/07/%E0%B8%AA%E0%B8%81%E0%B8%B9%E0%B9%8A%E0%B8%9B-26-07-66-768x433.jpg",
+"url": "https://pastebin.com/raw/MM0sr2Dt",
+"import": true
+}, 
+
+{
 "name": "Jake Movies 2",
 "author": "UPDATE 28/01/2024",
 "image": "https://img2.pic.in.th/pic/06Movies-2.jpeg",
@@ -112,33 +119,6 @@
 "import": "true"
 },
 
-{
-"name": "MOVEZONE",
-"image": "https://i.ibb.co/QcqJ4Vs/movie.jpg",
-"url": "https://pastebin.com/raw/rwL9E0jb",
-"import": true
-}, 
-
-{
-"name": "SERIES ZONE",
-"image": "https://mobibase.com/wp-content/themes/mobibase/assets/images/series_zone.png",
-"url": "https://freenote.biz/raw/MeH8vaWIEt",
-"import": true
-},
-
-{
-"name": "Series-indy",
-"image": "https://scontent.fbkk22-6.fna.fbcdn.net/v/t39.30808-6/265489756_111099908083739_1676960493109738454_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=lqLPHWURlyMAX8HganD&_nc_ht=scontent.fbkk22-6.fna&oh=00_AfCe-e6MziRm3M7ZoYxyU7TKkV_BLyrh0Yz4svcOH4vfoQ&oe=65ED3537",
-"url": "https://pastebin.com/raw/jTb2qaM5",
-"import": true
-}, 
-
-{
-"name": " Movie & Series ",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu3cror6pWhMrU5LJ_KYGjbG6b8S2B5_eMTrRAJRADj0SCXrkq4EIgzx_NsQnEhRaJTwE&usqp=CAU",
-"url": "https://drive.google.com/uc?id=1deDof6B1UsrPNeRda21magjKQelOzs_Z",
-"import": true
-},
 
 {
 "name":"🐷 𝕄𝕠𝕠𝕊𝕖𝕧𝕖ℕ 🅕🅡🅔🅔 UPDATE🐷",
@@ -170,7 +150,6 @@
 "import": true
 }, 
 
-
 {
 "name": "MOOSEVEN FREE ",
 "image": "https://pngimg.com/uploads/free/free_PNG90775.png",
@@ -178,6 +157,35 @@
 "import": true
 },
 
+{
+"name"              :     "หนังไทย THAI MOVIES",
+"image"             :     "https://img5.pic.in.th/file/secure-sv1/imagesc45866c90bd67932.jpeg",
+"url"               :     "https://pastebin.com/UsdwcUuU",
+"import": true
+},
+
+{
+"name": "MOVIE THAI UPDATE  ",
+"author":"กลุ่มแบ่งปัน ",
+"image":"https://i.postimg.cc/59v39cwM/movie-icon-15157.png",
+"url":"https://raw.githubusercontent.com/MrRobot07011997/wiseplay/main/movies",
+"import": "true"
+},
+
+
+{
+"name": "ดูหนังฟรี Tvallseries Dooseries4k  ",
+"image": "https://img5.pic.in.th/file/secure-sv1/Design-Studio-2024-03-06.png",
+"url": "https://pastebin.com/raw/H7P1Qr3e",
+"import": true
+},
+
+{
+"name": "Thai Series By SOMYOD UPDATE",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd4Jz99vDpTshGmIgNG6POVxbCpooq4z6GwvW5uflXDg7H39f4hoNQg_Np2RO2NdXQ5t0&usqp=CAU",
+"url": "https://freenote.biz/raw/BRfCVb6SfL",
+"import": false
+},
 
 {
 "name": "หนังจีน Chinese movies BY  somyod ",
@@ -188,11 +196,12 @@
 },
 
 {
-"name"              :     "หนังไทย THAI MOVIES",
-"image"             :     "https://img5.pic.in.th/file/secure-sv1/imagesc45866c90bd67932.jpeg",
-"url"               :     "https://pastebin.com/UsdwcUuU",
-"import": true
-},
+"name": "INTER Series By SOMYOD UPDATE",
+"image": "https://logos.flamingtext.com/Word-Logos/Series-design-china-name.webp",
+"url": "https://freenote.biz/raw/7VqiLhMXNt",
+"import": false
+}, 
+
 
 {
 "name": "PLAYIDTV 2024 ",
@@ -372,36 +381,7 @@
 "import": true
 },
 
-{
-"name": "ดูหนังฟรี Tvallseries Dooseries4k  ",
-"image": "https://img5.pic.in.th/file/secure-sv1/Design-Studio-2024-03-06.png",
-"url": "https://pastebin.com/raw/H7P1Qr3e",
-"import": true
-},
 
-{
-"name": "Thai Series By SOMYOD UPDATE",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd4Jz99vDpTshGmIgNG6POVxbCpooq4z6GwvW5uflXDg7H39f4hoNQg_Np2RO2NdXQ5t0&usqp=CAU",
-"url": "https://freenote.biz/raw/BRfCVb6SfL",
-"import": false
-},
-
-{
-"name": "INTER Series By SOMYOD UPDATE",
-"image": "https://logos.flamingtext.com/Word-Logos/Series-design-china-name.webp",
-"url": "https://freenote.biz/raw/7VqiLhMXNt",
-"import": false
-}, 
-
-
-{
-"name": "MOVIE THAI UPDATE  ",
-"author":"กลุ่มแบ่งปัน ",
-"image":"https://i.postimg.cc/59v39cwM/movie-icon-15157.png",
-"url":"https://raw.githubusercontent.com/MrRobot07011997/wiseplay/main/movies",
-"import": "true"
-},
- 
 {
 "name": "MUSIC Channel",
 "image": "https://scontent.fbkk29-4.fna.fbcdn.net/v/t39.30808-6/300051400_169004882368119_3587984536028308309_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=QdWFRiZk0j8AX9gheTF&_nc_ht=scontent.fbkk29-4.fna&oh=00_AfAjWx1WGmHXwyBoQxgdIY3DfXYm3USLj0gNzmvzFtHE1w&oe=65D8FAB1",
@@ -474,96 +454,6 @@
 "import": "true"
 },
 
-
-{
-"name": "ดูหนังกลุ่มแบ่งปัน",
-"author": "Super326",
-"image": "https://i0.wp.com/media2.giphy.com/media/3osxYzXXuBSzXZ1Np6/giphy.gif",
-"url": "",
-"info": "หนังใหม่ใส่เอง",
-"groups":
-[
-
-{
-"name": "หนัง",
-"author": "SuperMovie",
-"image": "https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
-"url": "https://docs.google.com/uc?export=download&id=1O1YWCtWgsbbkCjIM18j-Wr86cgrjrkVV",
-"import": "true"
-},
-
-{
-"name": "ซีรี่ย์",
-"author": "SuperMovie",
-"image": "https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
-"url": "https://docs.google.com/uc?export=download&id=1GkuV1iE4E-sXHk09kPHQK3WiQIjGthc7",
-"import": "true"
-},
-
-{
-"name": "Netflix",
-"author": "SuperMovie",
-"image": "https://mpics.mgronline.com/pics/Images/562000004025601.JPEG",
-"url": "https://docs.google.com/uc?export=download&id=1fZ7l9YpaWb6bEU55Sr19svh2HF_vO97a",
-"import": "true"
-},
-
-{
-"name": "A Killer Paradox ",
-"image": "https://f.ptcdn.info/237/083/000/s8w7mumin8LFppP7UK46-o.jpg",
-"url": "https://pastebin.com/raw/15jggAgy",
-"import": true
-},
-
-{
-"name"              :     "หนังและละคร",
-"image"             :     "https://i.imgur.com/vcZm6hA.jpg",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/movieS",
-"import": false
-}, 
-
-{
-"name"              :     "หนัง เก่า",
-"image"             :     "https://i.imgur.com/XsMDak4.png",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/old_2022",
-"import": false
-}, 
-
-
-{
-"name"              :     "ซี่รี่ย์ฝรั่ง",
-"image"             :     "https://i.ibb.co/b66Nk7f/01-usa.png",
-"url"               :     "http://tiny.cc/ubj4vz",
-"import": false
-}, 
-
-{
-"name"              :     "ซีรี่ย์เกาหลี",
-"image"             :     "https://i.ibb.co/PMFPRyb/01.png",
-"url"               :     "http://tiny.cc/vbj4vz",
-"import": false
-}, 
-
-{
-"name"              :     "ละครไทย ย้่อนหลัง ",
-"image"             :     "https://st-th-1.byteark.com/assets.punpro.com/cover-contents/i36812/1654830661760-%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/lakorn",
-"import": false
-}, 
-
-{
-"name": "ซีรีย์ที่ชอบ",
-"image": "https://media.tenor.com/JGun3CoOzG4AAAAC/seriess.gif",
-"url": "https://dl.dropboxusercontent.com/s/w31kqp7mlk17njm/%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD%202022.txt?dl=1",
-"import": false
-},
-
-{
-"name": "หนังหนังหนัง",
-"image": "https://i0.wp.com/media2.giphy.com/media/3osxYzXXuBSzXZ1Np6/giphy.gif",
-"url": "https://dl.dropboxusercontent.com/s/bh1uditiqrkgh0t/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8A%E0%B8%AD%E0%B8%9A.txt?dl=1",
-"import": false
-}, 
 
 ]}
 ]}
