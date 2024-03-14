@@ -4,12 +4,7 @@
  "info": "The Walking Dead",
  "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
  "groups": [
-
-{
-      "name": "The Walking Dead Season 4 พากย์ไทย",
-      "image": "https://bbk100.xyz/media/cache/strip/202106/movie/5d0461a00e17807af2a19129c9821e5e.png",
-      "stations": [
-        {
+  {
           "name": "ตอนที่ 1",
           "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/5d0461a00e17807af2a19129c9821e5e.png",
           "info": "พากย์ไทย",
