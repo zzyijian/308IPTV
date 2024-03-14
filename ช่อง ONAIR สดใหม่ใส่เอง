@@ -1,9 +1,10 @@
 {
-        "name": "ezmovie",
-        "author": "เจียว เจียว",
-        "image": "https://ezmovie.co/build/web/ez-movie/img/ez-movie-logo.png?v=3",
-        "groups": [
-  {
+  "name": "ซีรี่ย์",
+  "author": "เจียว เจียว อัพวันที่ 06 มีนาคม 2567",
+  "info": "ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย",
+  "image": "https://ezmovie.co/build/web/ez-movie/img/ez-movie-logo.png?v=3",
+  "groups": [
+    {
       "name": "The Walking Dead Season 4 พากย์ไทย",
       "image": "https://bbk100.xyz/media/cache/strip/202106/movie/5d0461a00e17807af2a19129c9821e5e.png",
       "stations": [
