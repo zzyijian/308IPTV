@@ -266,7 +266,14 @@
 },
 
 {
-"name": "Sports True Channel",
+"name": "รวมกีฬาดูบอล ช่องกีฬา True Sport Update",
+"image": "https://www.i-pic.info/i/dwqi366325.jpg",
+"url": "https://pastebin.com/raw/5nSfKa0c",
+"import": true
+},
+
+{
+"name": "Sports True Channel BY IPTV",
 "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",
 "url": "https://pastebin.com/raw/SS3tMW1L",
 "import": true
@@ -283,13 +290,6 @@
 "name": "รวมดูกีฬา SPORT ",
 "image": "https://as2.ftcdn.net/v2/jpg/03/02/12/83/1000_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",
 "url": "https://freenote.biz/raw/aTA06lbUgx",
-"import": true
-},
-
-{
-"name": "รวมกีฬาดูบอล ช่องกีฬา True Sport Update",
-"image": "https://www.i-pic.info/i/dwqi366325.jpg",
-"url": "https://pastebin.com/raw/5nSfKa0c",
 "import": true
 },
 
@@ -373,54 +373,9 @@
 },
 
 {
-"name": " Tvallseries ","image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
-"url": "https://drive.google.com/uc?id=1CK71aLlKt52aCf_WR4ZQEmfGZiNou-N1",
-"import": true
-},
- 
-{
-"name": " Dooseries4k ","image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
-"url": "https://drive.google.com/uc?id=15054Zyjz2PK7EJ8d9xnBgrNS6VZwWh8L",
-"import": true
-},
- 
-{
-"name": " Anime-Indy ","image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
-"url": "https://drive.google.com/uc?id=13RFqRGSOZBSTOwq-YvFeE9818hnuY0he",
-"import": true
-},
- 
-{
-"name": " Anime Moji ","image": "https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png",
-"url": "https://drive.google.com/uc?id=196x0N2t-khH8pxP8dmY24RwVizc_VB5w",
-"import": true
-},
- 
-{
-"name": " 123 HD ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-"url": "https://drive.google.com/uc?id=1T4Mo-w5413bTyIsp7N_bu7o09RkRb0Bj",
-"import": true
-},
- 
-{
-"name": " Series-indy ","image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
-"url": "https://drive.google.com/uc?id=10Wu_OgA7hZfOKoDVZ9pFrFKezUtqLAyz",
-"import": true
-},
- 
- 
-{
-"name": " Nung2HD ","image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-"url": "https://drive.google.com/uc?id=18cvX2drh_74oDrBav7MD9JA---idkfqo",
-"import": true
-},
- 
-
-
-{
-"name": " ก๊อบมั๊ย Group Channel",
-"image": "https://3.bp.blogspot.com/-2ZEfJeRBT8g/ThHfN6wooCI/AAAAAAAADP4/5a4Wrd_qYP0/s1600/ouranhighschool-hostclub_01.jpg",
-"url": "https://bit.ly/3KvwpKT",
+"name": "ดูหนังฟรี Tvallseries Dooseries4k  ",
+"image": "https://img5.pic.in.th/file/secure-sv1/Design-Studio-2024-03-06.png",
+"url": "https://pastebin.com/raw/SYifafH5",
 "import": true
 },
 
@@ -438,19 +393,6 @@
 "import": false
 }, 
 
-{
-"name": "ซีรีย์ที่ชอบ",
-"image": "https://media.tenor.com/JGun3CoOzG4AAAAC/seriess.gif",
-"url": "https://dl.dropboxusercontent.com/s/w31kqp7mlk17njm/%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD%202022.txt?dl=1",
-"import": false
-},
-
-{
-"name": "หนังหนังหนัง",
-"image": "https://i0.wp.com/media2.giphy.com/media/3osxYzXXuBSzXZ1Np6/giphy.gif",
-"url": "https://dl.dropboxusercontent.com/s/bh1uditiqrkgh0t/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8A%E0%B8%AD%E0%B8%9A.txt?dl=1",
-"import": false
-},
 
 {
 "name": "MOVIE THAI UPDATE  ",
@@ -459,43 +401,6 @@
 "url":"https://raw.githubusercontent.com/MrRobot07011997/wiseplay/main/movies",
 "import": "true"
 },
-
-{
-"name"              :     "หนังและละคร",
-"image"             :     "https://i.imgur.com/vcZm6hA.jpg",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/movieS",
-"import": false
-}, 
-
-{
-"name"              :     "หนัง เก่า",
-"image"             :     "https://i.imgur.com/XsMDak4.png",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/old_2022",
-"import": false
-}, 
-
-
-{
-"name"              :     "ซี่รี่ย์ฝรั่ง",
-"image"             :     "https://i.ibb.co/b66Nk7f/01-usa.png",
-"url"               :     "http://tiny.cc/ubj4vz",
-"import": false
-}, 
-
-{
-"name"              :     "ซีรี่ย์เกาหลี",
-"image"             :     "https://i.ibb.co/PMFPRyb/01.png",
-"url"               :     "http://tiny.cc/vbj4vz",
-"import": false
-}, 
-
-{
-"name"              :     "ละครไทย ย้่อนหลัง ",
-"image"             :     "https://st-th-1.byteark.com/assets.punpro.com/cover-contents/i36812/1654830661760-%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/lakorn",
-"import": false
-}, 
- 
  
 {
 "name": "MUSIC Channel",
@@ -573,7 +478,7 @@
 {
 "name": "ดูหนังกลุ่มแบ่งปัน",
 "author": "Super326",
-"image": "https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
+"image": "https://i0.wp.com/media2.giphy.com/media/3osxYzXXuBSzXZ1Np6/giphy.gif",
 "url": "",
 "info": "หนังใหม่ใส่เอง",
 "groups":
@@ -609,6 +514,56 @@
 "url": "https://pastebin.com/raw/15jggAgy",
 "import": true
 },
+
+{
+"name"              :     "หนังและละคร",
+"image"             :     "https://i.imgur.com/vcZm6hA.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/movieS",
+"import": false
+}, 
+
+{
+"name"              :     "หนัง เก่า",
+"image"             :     "https://i.imgur.com/XsMDak4.png",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/old_2022",
+"import": false
+}, 
+
+
+{
+"name"              :     "ซี่รี่ย์ฝรั่ง",
+"image"             :     "https://i.ibb.co/b66Nk7f/01-usa.png",
+"url"               :     "http://tiny.cc/ubj4vz",
+"import": false
+}, 
+
+{
+"name"              :     "ซีรี่ย์เกาหลี",
+"image"             :     "https://i.ibb.co/PMFPRyb/01.png",
+"url"               :     "http://tiny.cc/vbj4vz",
+"import": false
+}, 
+
+{
+"name"              :     "ละครไทย ย้่อนหลัง ",
+"image"             :     "https://st-th-1.byteark.com/assets.punpro.com/cover-contents/i36812/1654830661760-%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/lakorn",
+"import": false
+}, 
+
+{
+"name": "ซีรีย์ที่ชอบ",
+"image": "https://media.tenor.com/JGun3CoOzG4AAAAC/seriess.gif",
+"url": "https://dl.dropboxusercontent.com/s/w31kqp7mlk17njm/%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD%202022.txt?dl=1",
+"import": false
+},
+
+{
+"name": "หนังหนังหนัง",
+"image": "https://i0.wp.com/media2.giphy.com/media/3osxYzXXuBSzXZ1Np6/giphy.gif",
+"url": "https://dl.dropboxusercontent.com/s/bh1uditiqrkgh0t/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8A%E0%B8%AD%E0%B8%9A.txt?dl=1",
+"import": false
+}, 
 
 ]}
 ]}
