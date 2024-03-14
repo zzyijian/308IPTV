@@ -1,37 +1,2391 @@
-#EXTM3U
-
-#EXTINF:-1,tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1599758616.jpg",ร้องข้ามกำแพง 7 มีนาคม 2567 HD แน็ก ชาลี, ตงตง กฤษกร, เบนซ์ พรชิตา
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://www.watchlakorn.in/egdeny/abc2fa65a027d23e43b7144bef2e74e7/aGQ=/master.m3u8
-
-#EXTINF:-1,tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1599758616.jpg",ร้องข้ามกำแพง 22 กุมภาพันธ์ 2567 HD เกรซ กาญจน์เกล้า,แกรนด์ กรณ์ภัสสร, ไอซ์ อภิษฏา, เจฟ ซาเตอร์
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://www.watchlakorn.in/egdeny/79b6569912301dccaeba2790426e59ef/aGQ=/master.m3u8
-
-
-
-
-
-#EXTINF:-1,tvg-logo="      ", 
-https://
-
-
-#EXTINF:-1,tvg-logo="      ", 
-https://
-
-
-#EXTINF:-1,tvg-logo="      ", 
-https://
-
-
-#EXTINF:-1,tvg-logo="      ", 
-https://
-
-
-#EXTINF:-1,tvg-logo="      ", 
-https://
-
-
-#EXTINF:-1,tvg-logo="      ", 
-https://
-
+{
+"name": "The Walking Dead",
+"author": "The Walking Dead",
+"image": "",
+"url": "",
+"info": " NEW 2024",
+"stations": 
+[ 
+"name": "The Walking Dead Season 11 (2021) ฝ่าสยองทัพผีดิบ ซีซั่น 11",
+   "info": "จบแล้ว",
+   "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/b4ee883c7e57f2151ef4cd52/b4ee883c7e57f2151ef4cd52438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/27fa21444fd63cfea1aaae67/27fa21444fd63cfea1aaae67438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/cc894eff882d28a6ab18b4e5/cc894eff882d28a6ab18b4e5438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/49b3b3e82e60b14bcab4c105/49b3b3e82e60b14bcab4c105438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/6a599d2fa052a82467b0100c/6a599d2fa052a82467b0100c438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/ae06421e921a27d12f5aae60/ae06421e921a27d12f5aae60438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/6cc5200e8ae81136fbe5b586/6cc5200e8ae81136fbe5b586.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/21389a8006d59edd4825a1ba/21389a8006d59edd4825a1ba438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/5a6a878c4801f084019a18b5/5a6a878c4801f084019a18b5438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/b7292001fb68c7ad12f6c8f4/b7292001fb68c7ad12f6c8f4438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/c66fff3a106a2e9b3c089c81/c66fff3a106a2e9b3c089c81438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/4d756b6a108fb1a7091b5c78/4d756b6a108fb1a7091b5c78438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/01f071b0210b124c1c7a72bc/01f071b0210b124c1c7a72bc438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/e8668082e61a03e85c4697d2/e8668082e61a03e85c4697d2438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/d478d43e0ed14077f1cb9db1/d478d43e0ed14077f1cb9db1438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/06787b1de719219eb59a0f21/06787b1de719219eb59a0f21438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/9297229a67442a9842d1db64/9297229a67442a9842d1db64438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/f7157f4504a67007c4c429bd/f7157f4504a67007c4c429bd438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/0c2a747ef9da50447849b1c0/0c2a747ef9da50447849b1c0438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/97c38a1d01ddb6824ba6e25a/97c38a1d01ddb6824ba6e25a438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/e4559c15086d9b2e01322c24/e4559c15086d9b2e01322c24438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/cfc876bcad032e6ecfd473d3/cfc876bcad032e6ecfd473d3438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 23",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/6f8fe43ad7b4a28e5dc69615/6f8fe43ad7b4a28e5dc69615438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 24",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-11-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/f5743335e0d62f591443723a/f5743335e0d62f591443723a438.m3u8",
+     "referer": ""
+    }
+   ]
+  },
+  {
+   "name": "The Walking Dead Season 10 (2019) ฝ่าสยองทัพผีดิบ ซีซั่น 10",
+   "info": "จบแล้ว",
+   "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/1acdeeda789fe144bbd2f36d/1acdeeda789fe144bbd2f36d438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/autoplaylist/3a55417b3d4c5d31d70f864556d87acf/3a55417b3d4c5d31d70f864556d87acf.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/148b16cd9e1fea5895029581/148b16cd9e1fea5895029581438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/autoplaylist/d4fa94b4dd342c7b6d91df100ffd067b/d4fa94b4dd342c7b6d91df100ffd067b.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/c0684000a29ce9f777457392/c0684000a29ce9f777457392438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/7b7a380867d1d503fedcb949/7b7a380867d1d503fedcb949438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/7475ba2ad89420c5c4ea5d1e/7475ba2ad89420c5c4ea5d1e438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/autoplaylist/80768bf567db9aa778bbe8904a8c5d1e/80768bf567db9aa778bbe8904a8c5d1e.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/autoplaylist/beb0c375eff4f93838ecf9b3aa4f0c16/beb0c375eff4f93838ecf9b3aa4f0c16.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/709892551cf5dd1b1d3955b0/709892551cf5dd1b1d3955b0438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/39dee65a9df71fb801552d2c/39dee65a9df71fb801552d2c438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/08d49588ee81dfabb591128d/08d49588ee81dfabb591128d438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/autoplaylist/ef3855bdddd69bb4b218368c7b8af056/ef3855bdddd69bb4b218368c7b8af056.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/e07bc9033cd551a142a7345c/e07bc9033cd551a142a7345c438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/ef5c93a14d1d714acabd621b/ef5c93a14d1d714acabd621b438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/autoplaylist/2da35cd5b227e6d764ea0c0a810014d9/2da35cd5b227e6d764ea0c0a810014d9.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/f7dd81a78c1ef2d846e41ab2/f7dd81a78c1ef2d846e41ab2438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/f7dd81a78c1ef2d846e41ab2/f7dd81a78c1ef2d846e41ab2438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/0a503fc300523090e8257121/0a503fc300523090e8257121438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/autoplaylist/80715d7d1b0684b1289b1a6ff2e318b1/80715d7d1b0684b1289b1a6ff2e318b1.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/313103b21bcad594f7b94d05/313103b21bcad594f7b94d05438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/autoplaylist/413a321538cb5ab110463a7660bf54b8/413a321538cb5ab110463a7660bf54b8.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/681a6c8625572a763baf4640/681a6c8625572a763baf4640438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/ee44037848b7b2ae57e6eba3/ee44037848b7b2ae57e6eba3438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/autoplaylist/cc4fb648bf2f456db6686cf8c45ee727/cc4fb648bf2f456db6686cf8c45ee727.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/autoplaylist/49c6f894745c7837a742803199f791ca/49c6f894745c7837a742803199f791ca.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/3c0cb8bea136251cec3a0a80/3c0cb8bea136251cec3a0a80438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/autoplaylist/d708502024d5252fd3aad41350f780cf/d708502024d5252fd3aad41350f780cf.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/f0c5b835daba7236a48ea01a/f0c5b835daba7236a48ea01a438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/cada930822c9abac6dfcecc3/cada930822c9abac6dfcecc3438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/newplaylist/5fee2477cef3901cbc3fe4cc/5fee2477cef3901cbc3fe4cc800.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/762fc69b063d0685f44396ca/762fc69b063d0685f44396ca438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/f1a9268792ae7e8f7d5d291c/f1a9268792ae7e8f7d5d291c438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/36988a043fa22f2178c933dc/36988a043fa22f2178c933dc438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/8db632846a9e35b65b317fed/8db632846a9e35b65b317fed438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/1d443e7471d61073dbf1b0fd/1d443e7471d61073dbf1b0fd438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/92830b748f9bbcbd8e395ed9/92830b748f9bbcbd8e395ed9438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/ead7d834db3978fc09ed8af8/ead7d834db3978fc09ed8af8438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/2ab49848d1513529c58047f0/2ab49848d1513529c58047f0438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/4206e7946af971500232eee2/4206e7946af971500232eee2438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/1a3ab41f39153f4f98470eea/1a3ab41f39153f4f98470eea438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/81ecd2b7aa2db93c8f6448f0/81ecd2b7aa2db93c8f6448f0438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-10-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/cda07c0f52717785abd5a966/cda07c0f52717785abd5a966438.m3u8",
+     "referer": ""
+    }
+   ]
+  },
+  {
+   "name": "The Walking Dead Season 9 (2018) ฝ่าสยองทัพผีดิบ ซีซั่น 9",
+   "info": "จบแล้ว",
+   "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/e1e425909e577802e2b62ed0/e1e425909e577802e2b62ed0438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/edcd0b6582fb8e9a55adec35/edcd0b6582fb8e9a55adec35438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/f9401fbb8e6c117b6e6fbfe4/f9401fbb8e6c117b6e6fbfe4438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/133020cc4768b1e63c7940ce/133020cc4768b1e63c7940ce438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/f301e47efc50cf73bf95d9f0/f301e47efc50cf73bf95d9f0438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/17a9723437ac048b2e0895ab/17a9723437ac048b2e0895ab438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/511991b42f235bd9083eb176/511991b42f235bd9083eb176438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/9061473a15d2661c9b078eae/9061473a15d2661c9b078eae438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/40314c3aee0b40db227f7701/40314c3aee0b40db227f7701438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/289871c56bdfad68c82d91a8/289871c56bdfad68c82d91a8438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/a2a26e14a671715e37958738/a2a26e14a671715e37958738438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/2199106b320a332928a37c06/2199106b320a332928a37c06438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/d392039941baffd528f74112/d392039941baffd528f74112438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/b0920d90a5b915cd5c24fab3/b0920d90a5b915cd5c24fab3438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/a09475ad55bb53f61197ff83/a09475ad55bb53f61197ff83438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/8904483a7b71e854a6a88188/8904483a7b71e854a6a88188438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/31c6f01015f6e7babb74a822/31c6f01015f6e7babb74a822438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/8e0f56c17a77a788e16dcc42/8e0f56c17a77a788e16dcc42438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/3b080e5689fc382d8fcd8c9e/3b080e5689fc382d8fcd8c9e438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/f62cd6a90390bd05ba9dc621/f62cd6a90390bd05ba9dc621438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/065d9fe8918dc0a8ac7e0627/065d9fe8918dc0a8ac7e0627438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/950c29395a6d3bec3f019bc0/950c29395a6d3bec3f019bc0438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/7d769c6e5af1b6fd6a293709/7d769c6e5af1b6fd6a293709438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/f624e1c5d338be3a6d90a24f/f624e1c5d338be3a6d90a24f438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/27aaf4a9ec2e464a08a16333/27aaf4a9ec2e464a08a16333438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/8d07f7b7ab7b128a8cf9ff2b/8d07f7b7ab7b128a8cf9ff2b438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/c8673dd6080be17f8faacf14/c8673dd6080be17f8faacf14438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/3a1731776b5e41fa6d19cdda/3a1731776b5e41fa6d19cdda438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/bb504af46b48b501799b7a82/bb504af46b48b501799b7a82438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/fe01a7bfdce5466f37e107e7/fe01a7bfdce5466f37e107e7438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/91358fa39bc69adc14e34322/91358fa39bc69adc14e34322438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-9-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/42105cf4e10c4245bfd09e9f/42105cf4e10c4245bfd09e9f438.m3u8",
+     "referer": ""
+    }
+   ]
+  },
+  {
+   "name": "The Walking Dead Season 8 (2017) ฝ่าสยองทัพผีดิบ ซีซั่น 8",
+   "info": "จบแล้ว",
+   "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/68b71431b561b6997e0cc39c/68b71431b561b6997e0cc39c438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/7603f201d58d523fc9db772b/7603f201d58d523fc9db772b438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/96ccde3ab394147eac0e206f/96ccde3ab394147eac0e206f438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/f172cf5836bfab230af4ba66/f172cf5836bfab230af4ba66438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/54a5ca946d488b67041f98b5/54a5ca946d488b67041f98b5438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/325017812c081257fceafe58/325017812c081257fceafe58438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/c4c8025bfceb9af4db55547c/c4c8025bfceb9af4db55547c438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/e63179554333c1f642ce2aa3/e63179554333c1f642ce2aa3438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/1294e762a94cfed5afc03717/1294e762a94cfed5afc03717438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/14c6bea20a03c4da16a2abe0/14c6bea20a03c4da16a2abe0438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/f09e89af32ad9272e0814c43/f09e89af32ad9272e0814c43438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/6f36772f917df837487c9aed/6f36772f917df837487c9aed438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/b7fea2229bbf6ffb67e8e375/b7fea2229bbf6ffb67e8e375438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/f6a12ecee7a1cf48544f43ad/f6a12ecee7a1cf48544f43ad438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/a9e44243dcf750f7b9b13e4b/a9e44243dcf750f7b9b13e4b438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/700dc53a8969e2b2f904e208/700dc53a8969e2b2f904e208438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/c37e3cf90648632e1058ade4/c37e3cf90648632e1058ade4438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/a8b7c9655c03da8b198041da/a8b7c9655c03da8b198041da438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/6af2e0e8d0b1a354763db81f/6af2e0e8d0b1a354763db81f438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/33468ac50571e1bcfedf1bce/33468ac50571e1bcfedf1bce438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/88e971d2e1ff98ff8cc6fe51/88e971d2e1ff98ff8cc6fe51438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/699bf99b502093f8c0297806/699bf99b502093f8c0297806438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/64d8fd724c8c3d7013fa98e1/64d8fd724c8c3d7013fa98e1438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/4819d94d16137ce588178d27/4819d94d16137ce588178d27438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/34d9c2901f77f7e03b27edbe/34d9c2901f77f7e03b27edbe438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/76ebec6d3a86e282c1fe41c2/76ebec6d3a86e282c1fe41c2438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/7ee4ff20d7de2392b9921df2/7ee4ff20d7de2392b9921df2438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/7477a559768eb358692fc0fd/7477a559768eb358692fc0fd438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/d70d67fa22d7bb80bce36cb3/d70d67fa22d7bb80bce36cb3438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/ef94ff682d2a8ce82170d84c/ef94ff682d2a8ce82170d84c438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/32320a0b3d5974a277af9f63/32320a0b3d5974a277af9f63438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-8-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/5f113e7c0021d5ba68740e71/5f113e7c0021d5ba68740e71438.m3u8",
+     "referer": ""
+    }
+   ]
+  },
+  {
+   "name": "The Walking Dead Season 7 (2016) ฝ่าสยองทัพผีดิบ ซีซั่น 7",
+   "info": "จบแล้ว",
+   "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/81b71196e8e5d976e302b49a/81b71196e8e5d976e302b49a438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/543c9b2c01394374ac06c6a2/543c9b2c01394374ac06c6a2438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/50ae40b6239961839a6e67d8/50ae40b6239961839a6e67d8438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/fe728e90b40dde317636e24f/fe728e90b40dde317636e24f438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/0b9a45c86cccc4dd448eadfa/0b9a45c86cccc4dd448eadfa438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/2ae249a04f3dafc9f08826d4/2ae249a04f3dafc9f08826d4438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/9c7dfc7251477f5a013d85b3/9c7dfc7251477f5a013d85b3438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/9e835928b5163e3955726df8/9e835928b5163e3955726df8438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/0f5fe8a0e8c4efd272422648/0f5fe8a0e8c4efd272422648438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/950b249638367d7e979be64c/950b249638367d7e979be64c438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/1d2a52f404e3d76bfed13a15/1d2a52f404e3d76bfed13a15438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/4568841e5129fe1fd8651d0f/4568841e5129fe1fd8651d0f438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/e955ac24c67b18eefc27d239/e955ac24c67b18eefc27d239438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/fcaaf8d7780274ba85b2f32b/fcaaf8d7780274ba85b2f32b438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/2927dd347f8d65ff129010cb/2927dd347f8d65ff129010cb438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/726e367789945ee7e0c2bcc9/726e367789945ee7e0c2bcc9438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/ae2c01b19bffd235ac71d3c6/ae2c01b19bffd235ac71d3c6438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/52c6f8349a5ada02c1776021/52c6f8349a5ada02c1776021438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/4e5c027ac0b7c5a6fa43652d/4e5c027ac0b7c5a6fa43652d438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/775383a9815521618b234c30/775383a9815521618b234c30438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/31df654e019bc1e1a9aae176/31df654e019bc1e1a9aae176438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/71144469caeb0cc782a9b33c/71144469caeb0cc782a9b33c438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/1b22e2c87bf9a6dc2d9ba34b/1b22e2c87bf9a6dc2d9ba34b438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/875250445af9ea3bbb1b0d9c/875250445af9ea3bbb1b0d9c438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/b8c9dc019ce78486bec92bd4/b8c9dc019ce78486bec92bd4438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/d6c0b380fe063892f3d9e158/d6c0b380fe063892f3d9e158438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/f2db6463de648d7740ae560d/f2db6463de648d7740ae560d438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/1b6812b415dfe93871f987ec/1b6812b415dfe93871f987ec438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/0a5cfa34fdcc69191a4fdeb8/0a5cfa34fdcc69191a4fdeb8438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/4864a4ff3381f87f5f89a91e/4864a4ff3381f87f5f89a91e438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/c4bbbe37dc27ff0415c3e9cc/c4bbbe37dc27ff0415c3e9cc438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/63fb05b5563c5498da06e6b2/63fb05b5563c5498da06e6b2438.m3u8",
+     "referer": ""
+    }
+   ]
+  },
+  {
+   "name": "The Walking Dead Season 6 (2015) ฝ่าสยองทัพผีดิบ ซีซั่น 6",
+   "info": "จบแล้ว",
+   "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/316b92f0b856d0a8f8bc019d/316b92f0b856d0a8f8bc019d438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/5e8d2ca161b832223417f7dd/5e8d2ca161b832223417f7dd438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/f1efecb7becbd27bae234033/f1efecb7becbd27bae234033438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/c158161c740f1080afb20fa8/c158161c740f1080afb20fa8438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/8916cb7c61c65d5b1dd9d7e2/8916cb7c61c65d5b1dd9d7e2438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/479431f7f6f33f5e053ca050/479431f7f6f33f5e053ca050438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/5a771cbf3061affb25506d75/5a771cbf3061affb25506d75438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/8271cb3c1d113559a164d9d0/8271cb3c1d113559a164d9d0438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/934aa1c33ce0c852e9c1dc88/934aa1c33ce0c852e9c1dc88438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/17ca541497b62d53d8ef974c/17ca541497b62d53d8ef974c438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/4d12f251f64be467c0063e86/4d12f251f64be467c0063e86438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/5e8180ca1e3de1f514a9b793/5e8180ca1e3de1f514a9b793438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/cdb1a62bb432e1fd87c7d11c/cdb1a62bb432e1fd87c7d11c438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/b2b48e07307d94a6fe2a7bff/b2b48e07307d94a6fe2a7bff438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/4565afd9719d5a9b8c89d469/4565afd9719d5a9b8c89d469438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/535a237ae30e872bea0a14e2/535a237ae30e872bea0a14e2438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/86cb7791e02c28ef03ef8feb/86cb7791e02c28ef03ef8feb438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/db5b695118f0e8b3387566e9/db5b695118f0e8b3387566e9438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/32f6bf6e25a447dc10cddb87/32f6bf6e25a447dc10cddb87438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/6386ef03dd8585a8178ce3ac/6386ef03dd8585a8178ce3ac438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/a0bdcf371c65f60d567e736a/a0bdcf371c65f60d567e736a438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/41e78f53a66b66aaa67d506c/41e78f53a66b66aaa67d506c438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/9e401c871640380b9d882476/9e401c871640380b9d882476438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/23267a7d5a9976c720b3dc89/23267a7d5a9976c720b3dc89438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/b051d944673c478925147134/b051d944673c478925147134438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/071cc5c5dc01c1a923948269/071cc5c5dc01c1a923948269438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/0fbdce58b8a5a3247b074400/0fbdce58b8a5a3247b074400438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/4bc1034f2c7b0234d5fcfbd4/4bc1034f2c7b0234d5fcfbd4438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/a8776daa781a68401ae3d1d2/a8776daa781a68401ae3d1d2438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/a422c24c448ce11a85132827/a422c24c448ce11a85132827438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/cb8a4ab146bdd2b427a572c2/cb8a4ab146bdd2b427a572c2438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-6-2015-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/ce7d2d64e10f0aac01fe4dd6/ce7d2d64e10f0aac01fe4dd6438.m3u8",
+     "referer": ""
+    }
+   ]
+  },
+  {
+   "name": "The Walking Dead Season 5 (2014) ฝ่าสยองทัพผีดิบ ซีซั่น 5",
+   "info": "จบแล้ว",
+   "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/ba54d409d9b3be19adbab70a/ba54d409d9b3be19adbab70a438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/fa4c3ac69c7629f297010599/fa4c3ac69c7629f297010599438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/2a11874c571fb9b4c7b7e1d2/2a11874c571fb9b4c7b7e1d2438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/8c5544c5bf4c44f6c2844f7f/8c5544c5bf4c44f6c2844f7f438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/bc4d10d9f3e8aa46ca762b53/bc4d10d9f3e8aa46ca762b53438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/c7f08753f4c8089b7e13c1c0/c7f08753f4c8089b7e13c1c0438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/1e79e603d5ad126baab3b4d7/1e79e603d5ad126baab3b4d7438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/bbc4cbd88b4396a9ef548b81/bbc4cbd88b4396a9ef548b81438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/fc18845c4b2019a036c92ef1/fc18845c4b2019a036c92ef1438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/8a6e62afc6e8bee31b15636d/8a6e62afc6e8bee31b15636d438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/06b053f7b1c56c7a6c8e0efb/06b053f7b1c56c7a6c8e0efb438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/a190dbbb8bc196067a5a5540/a190dbbb8bc196067a5a5540438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/53b263ddf6f4cc8fe821ddf5/53b263ddf6f4cc8fe821ddf5438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/ca081df91365cdca8cb60481/ca081df91365cdca8cb60481438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/c9f1b2e13ef1ba31ff56ce7c/c9f1b2e13ef1ba31ff56ce7c438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/9043fad23e5321704f7e37ca/9043fad23e5321704f7e37ca438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/c1cea5f77acdeeb656ca12db/c1cea5f77acdeeb656ca12db438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/18396eb58d0223d5ef6a9491/18396eb58d0223d5ef6a9491438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/32c5f997b9019c1918bf133b/32c5f997b9019c1918bf133b438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/98eb3a98a64947722f286d98/98eb3a98a64947722f286d98438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/bb35bbbc8d0bcfd393eae2ac/bb35bbbc8d0bcfd393eae2ac438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/eb6c1d9ad1516f685bba3df4/eb6c1d9ad1516f685bba3df4438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/67b67376f102a127c85b04f1/67b67376f102a127c85b04f1438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/c03af0df892e433dd723e07f/c03af0df892e433dd723e07f438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/b0cb4143f790085973c697a4/b0cb4143f790085973c697a4438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/341540eedfeb45168b0df0b5/341540eedfeb45168b0df0b5438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/d64b9a4d87f9f99614ba1b8d/d64b9a4d87f9f99614ba1b8d438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/19185857a2df5a006bf18bdd/19185857a2df5a006bf18bdd438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/52594f8b1a8491da47e60e95/52594f8b1a8491da47e60e95438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/53ff1d87a800ddbc8c029eef/53ff1d87a800ddbc8c029eef438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/1d034ab07e3527f3d7ce2f0e/1d034ab07e3527f3d7ce2f0e438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-5-2014-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/4765dff441118c8a13c77aa2/4765dff441118c8a13c77aa2438.m3u8",
+     "referer": ""
+    }
+   ]
+  },
+  {
+   "name": "The Walking Dead Season 4 (2013) ฝ่าสยองทัพผีดิบ ซีซั่น 4",
+   "info": "จบแล้ว",
+   "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/4cb9ec9be6099d7c5ed90963/4cb9ec9be6099d7c5ed90963438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/29b0ae31e61eb5cc1a4e6e76/29b0ae31e61eb5cc1a4e6e76438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/38f9c0cd5ea5afc2e8eb811e/38f9c0cd5ea5afc2e8eb811e438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/198c7b937d2e5c212d268918/198c7b937d2e5c212d268918438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/1be3e2565b91d97f5ccab67b/1be3e2565b91d97f5ccab67b438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/0e1b986c7a8fa70f64ed4fdb/0e1b986c7a8fa70f64ed4fdb438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/6cc3148ea6f3d6b760a82f0d/6cc3148ea6f3d6b760a82f0d438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/92f10b3363b5dc431357250e/92f10b3363b5dc431357250e438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/9cad4cad74b9b77c09dc6b3d/9cad4cad74b9b77c09dc6b3d438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/8c30f2bb313fb2201349c142/8c30f2bb313fb2201349c142438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/9cbf462a1d8412123b584f7c/9cbf462a1d8412123b584f7c438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/bc2da0d28089c6de1b79a946/bc2da0d28089c6de1b79a946438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/7b8169a77019d2bf12db125f/7b8169a77019d2bf12db125f438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/1b06884742c68516047e0fb5/1b06884742c68516047e0fb5438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/56d6cff3e316508bfea09845/56d6cff3e316508bfea09845438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/cd0dcf027ea2c4cb4f4156e1/cd0dcf027ea2c4cb4f4156e1438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/f752f2f7261aef886bf0e82e/f752f2f7261aef886bf0e82e438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/e9bbd9513e8bdd5ba8702ee6/e9bbd9513e8bdd5ba8702ee6438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/296ab639e0af4b6cdf8ab874/296ab639e0af4b6cdf8ab874438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/7bc3dacc3db930caaecbf6cb/7bc3dacc3db930caaecbf6cb438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/dadcda41f95017125dbb9cfe/dadcda41f95017125dbb9cfe438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/d1b05c4eff0f7b796ef5dfe2/d1b05c4eff0f7b796ef5dfe2438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/a99527c1abd1c457a6f2f817/a99527c1abd1c457a6f2f817438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/a4ee17708d72c9166f988e79/a4ee17708d72c9166f988e79438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/04c18e8aa67e91c70471847e/04c18e8aa67e91c70471847e438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/28ec96a5dbebcc9c3e6fd14e/28ec96a5dbebcc9c3e6fd14e438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/38e70f618b1bb0981cdfae85/38e70f618b1bb0981cdfae85438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/06ace9b13dcdb12bad772a83/06ace9b13dcdb12bad772a83438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/4068df77f2f0e8bd7e081bf1/4068df77f2f0e8bd7e081bf1438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/7e686fe8d9af2f09d3754ac2/7e686fe8d9af2f09d3754ac2438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/6fd00843dadb01cb9796437e/6fd00843dadb01cb9796437e438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-4-2013-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/45e6bed47c6f3d3d88ef7003/45e6bed47c6f3d3d88ef7003438.m3u8",
+     "referer": ""
+    }
+   ]
+  },
+  {
+   "name": "The Walking Dead Season 3 (2012) ฝ่าสยองทัพผีดิบ ซีซั่น 3",
+   "info": "จบแล้ว",
+   "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/6f8c0f03cd7a2078d317c25e/6f8c0f03cd7a2078d317c25e438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/be9bdc983033155126560b14/be9bdc983033155126560b14438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/f13c584c27f37a3b14a7c270/f13c584c27f37a3b14a7c270438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/65ca434f3e4aab71539a8a68/65ca434f3e4aab71539a8a68438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/f774cbaa9c4e08fd930df115/f774cbaa9c4e08fd930df115438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/fc6cd610cc7d9857de54c4d5/fc6cd610cc7d9857de54c4d5438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/bcf33abedeac3da2ba5d7fd2/bcf33abedeac3da2ba5d7fd2438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/da1044133d0c6d47ac0127eb/da1044133d0c6d47ac0127eb438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/944be106333e44500598c586/944be106333e44500598c586438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/fb7a5b3b770d2388f628872c/fb7a5b3b770d2388f628872c438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/3f2a6fba1f5c8469352c3faa/3f2a6fba1f5c8469352c3faa.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/d46d6caf3e58e1be7a077309/d46d6caf3e58e1be7a077309438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/e18fd918913e1fe56493bd35/e18fd918913e1fe56493bd35438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/db32babb9c8f0c8d9c8fd75f/db32babb9c8f0c8d9c8fd75f438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/26f4d222613efdc983de8979/26f4d222613efdc983de8979438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/e7493923e9935642bbc8ba75/e7493923e9935642bbc8ba75438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/6357b4a2489c6113e30cf2e8/6357b4a2489c6113e30cf2e8438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/37bbb5211a915e9764906432/37bbb5211a915e9764906432438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/3dac0711f100d8089053b309/3dac0711f100d8089053b309438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/2aca834ace91beb1f4d51962/2aca834ace91beb1f4d51962438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/e6b6b733acff9a910c61405d/e6b6b733acff9a910c61405d438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/b8fcafe6b06b6e9f2c602383/b8fcafe6b06b6e9f2c602383438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/e70ed1db3e853cfb53fa606f/e70ed1db3e853cfb53fa606f438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/bc622b225978e082aff4d5a9/bc622b225978e082aff4d5a9438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/2011923e0765df10568e185a/2011923e0765df10568e185a438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/1060e4416b342ba4c17854c7/1060e4416b342ba4c17854c7438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/9a58f8e38b54b07f2fd0d5fb/9a58f8e38b54b07f2fd0d5fb438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/d340cd1d9e0cfcfe87edbb06/d340cd1d9e0cfcfe87edbb06438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/f7cc4ee3117ae0af24363ce0/f7cc4ee3117ae0af24363ce0438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/d5720fb5376d407311287be0/d5720fb5376d407311287be0438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/1bfed13a0d628a28349e7f6d/1bfed13a0d628a28349e7f6d438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-3-2012-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/372f62a45aac34062be9d3fc/372f62a45aac34062be9d3fc438.m3u8",
+     "referer": ""
+    }
+   ]
+  },
+  {
+   "name": "The Walking Dead Season 2 (2011) ฝ่าสยองทัพผีดิบ ซีซั่น 2",
+   "info": "จบแล้ว",
+   "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/9baa98ba619e662d28fdee3f/9baa98ba619e662d28fdee3f438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/52be82fb9c7a36bc0f2f22fa/52be82fb9c7a36bc0f2f22fa438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/d4377dffa7837da1467c2956/d4377dffa7837da1467c2956438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/b5128e16dc064e7ca1fa5492/b5128e16dc064e7ca1fa5492438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/b97d208470fed0a0508194fc/b97d208470fed0a0508194fc438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/d7d122d4206417c9f51f3ae8/d7d122d4206417c9f51f3ae8438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/70e0cc16fc821206a8a9ac9d/70e0cc16fc821206a8a9ac9d438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/2fd57d17e29c997d48338462/2fd57d17e29c997d48338462438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/68edb775ca60ae832fd94d98/68edb775ca60ae832fd94d98438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/847c4f290dccb73c7a21b269/847c4f290dccb73c7a21b269438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/77f54e739a2a256a11764d86/77f54e739a2a256a11764d86438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/347a4beaf1088ad2239df1b3/347a4beaf1088ad2239df1b3438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/5f95ba27d25425fb5ff283b8/5f95ba27d25425fb5ff283b8438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/97e911f2cbcb4ac6b4028ef2/97e911f2cbcb4ac6b4028ef2438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/2492649b1692adf5cdc609d3/2492649b1692adf5cdc609d3438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/bc0ec870e5f071671b2130c1/bc0ec870e5f071671b2130c1438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/96594ba2287d5cc1eda9255a/96594ba2287d5cc1eda9255a438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/d0fab9bbdf5b6418b8ad9e57/d0fab9bbdf5b6418b8ad9e57438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/aa68e8edc6418a2190d39056/aa68e8edc6418a2190d39056438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/e994360a818170801fc3c015/e994360a818170801fc3c015438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/8a7697ab02c7dc11f7781675/8a7697ab02c7dc11f7781675438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/2c26967dd51ff3e53f27c140/2c26967dd51ff3e53f27c140438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/70b7f24970f332bec147d70e/70b7f24970f332bec147d70e438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/9de17cf42404a4762ec5466c/9de17cf42404a4762ec5466c438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/b97d4af5e84f398f4540f6c4/b97d4af5e84f398f4540f6c4438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-2-2011-ฝ่าสยองทัพผีดิบ-ซีซั่น-2-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/59dada4aab68ed55ec8b00f1/59dada4aab68ed55ec8b00f1438.m3u8",
+     "referer": ""
+    }
+   ]
+  },
+  {
+   "name": "The Walking Dead (2010) ฝ่าสยองทัพผีดิบ",
+   "info": "จบแล้ว",
+   "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-2010-ฝ่าสยองทัพผีดิบ-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-2010-ฝ่าสยองทัพผีดิบ-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/b8d7588949a047cd31ca692c/b8d7588949a047cd31ca692c438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-2010-ฝ่าสยองทัพผีดิบ-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/db9fc75c548a04af9b4989db/db9fc75c548a04af9b4989db438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-2010-ฝ่าสยองทัพผีดิบ-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/4954cd30b206b83183b65ad7/4954cd30b206b83183b65ad7438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-2010-ฝ่าสยองทัพผีดิบ-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/00788cb2eb6a4f0a64a1d55d/00788cb2eb6a4f0a64a1d55d438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-2010-ฝ่าสยองทัพผีดิบ-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/7fa0e67208eb821079df3479/7fa0e67208eb821079df3479438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-2010-ฝ่าสยองทัพผีดิบ-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/68064f56fc52982fd323f6a9/68064f56fc52982fd323f6a9438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-2010-ฝ่าสยองทัพผีดิบ-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/2f09bdb956cf2dbd8a71cb7b/2f09bdb956cf2dbd8a71cb7b438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-2010-ฝ่าสยองทัพผีดิบ-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/3d9af808415b679058844b5f/3d9af808415b679058844b5f438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-2010-ฝ่าสยองทัพผีดิบ-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/9ede2448198b6d6faa7c7c06/9ede2448198b6d6faa7c7c06438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-2010-ฝ่าสยองทัพผีดิบ-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/69b830a47b9eb8ed0cc52fe2/69b830a47b9eb8ed0cc52fe2438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-2010-ฝ่าสยองทัพผีดิบ-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/296b137a0a151363dc946d5e/296b137a0a151363dc946d5e438.m3u8",
+     "referer": ""
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Walking-Dead-2010-ฝ่าสยองทัพผีดิบ-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/40f4a9ec24b15f607aa88315/40f4a9ec24b15f607aa88315438.m3u8",
+     "referer": ""
+    }
+   ]
+}]
+ 
+},    
+]
+}
