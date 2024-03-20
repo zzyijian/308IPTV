@@ -47,6 +47,7 @@
 "url": "https://freenote.biz/raw/ycplNy3UDg",
 "import": true
 },
+
 {
 "name": "TV ALL BY ALL TV รวม ",
 "image": "https://www.48hourslogo.com/48hourslogo_data/2019/08/05/87279_1565008131.jpg",
@@ -55,9 +56,10 @@
 }, 
 
 {
-"name": "Happy PLAYLIST",
-"image": "https://uppic.cloud/ib/t2xTUmSHdP.gif",
-"url": "https://freenote.biz/raw/pKhYLNFEZI",
+"name": "(♥ 🇹🇭 IPTV UPDDATE-MOVIE ♥)",
+"author":"(♥ 🇹🇭 IPTV UPDDATE 🇹🇭♥)",
+"image":"https://st2.depositphotos.com/16030310/43064/v/1600/depositphotos_430643724-stock-illustration-letter-logo-colorful-splash-background.jpg",
+"url":"https://freenote.biz/raw/gk9psZfSQu",
 "import": "true"
 },
 
@@ -69,7 +71,7 @@
 }, 
 
 {
-"name": " Movie & Series 2023 by เจียว เจียว",
+"name": "Series 2023 UPDATE by เจียว เจียว",
 "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
 "url": "https://raw.githubusercontent.com/main-main-main/main/main-main-main-main-main-main-main-main-main-main-main/main/main/main/main/main/main/%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A7%20%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A7.txt",
 "import": true
@@ -78,7 +80,7 @@
 
 {
 "name": "MOVIE 123HD BY เจียว เจียว ",
-"image": "https://lh3.googleusercontent.com/proxy/H3Qqam3pY_rL6OxBqggcIoU54V83Ql0HsojlkPHLlvDZung-lawoe8rmu8aS1uLxVRqLrnutkU_nEJdCs0u2gIBrHoSArJg5Ibc3jxjORbkj0-g7Ty2RALS359EmKMLLSam6z6dQtTdy15hBeLR5gnwm9PbdDqnKPvgDUg",
+"image": "https://res.9appsinstall.com/group5/M02/3C/B7/IqEHAF2CSAGAL0a0AACxxR45njU272.jpg",
 "url": "https://pastebin.com/raw/60aAW4Jd",
 "import": true
 }, 
@@ -216,6 +218,19 @@
 "import": false
 }, 
 
+{
+"name": " DOCUMENTARY สารคดี ",
+"image": "https://www.sarakadee.com/wp-content/uploads/logo3.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1fTi3XEFsZBY7X2gRKJf3-zs4U022ljrn"
+},
+
+
+{
+"name": " GOOD TV Channel",
+"image": "https://tv.co.th/wp-content/uploads/2019/11/goodtv-logo-2019-1.jpg",
+"url": "https://freenote.biz/raw/wi3LHIgVz1",
+"import": true
+},
 
 {
 "name": "PLAYIDTV 2024 ",
@@ -254,19 +269,7 @@
 }, 
 
 
-{
-"name": " DOCUMENTARY สารคดี ",
-"image": "https://www.sarakadee.com/wp-content/uploads/logo3.jpg",
-"url": "https://drive.google.com/uc?export=download&id=1fTi3XEFsZBY7X2gRKJf3-zs4U022ljrn"
-},
 
-
-{
-"name": " GOOD TV Channel",
-"image": "https://tv.co.th/wp-content/uploads/2019/11/goodtv-logo-2019-1.jpg",
-"url": "https://freenote.biz/raw/wi3LHIgVz1",
-"import": true
-},
 
 {
 "name": "CARTOON Channel",
@@ -324,6 +327,13 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ace",
 "import": false
 }, 
+
+{
+"name": "Happy PLAYLIST",
+"image": "https://uppic.cloud/ib/t2xTUmSHdP.gif",
+"url": "https://freenote.biz/raw/pKhYLNFEZI",
+"import": "true"
+},
 
 {
 "name": "WE ARE ONE UPDATE   ",
@@ -485,6 +495,8 @@
 "url":"https://freenote.biz/raw/gk9psZfSQu",
 "import": "true"
 },
+
+
 
 ]}
 ]}
