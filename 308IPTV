@@ -343,14 +343,21 @@
 {
 "name"              :     "Acestream SPORT",
 "image"             :     "https://miro.medium.com/v2/resize:fit:720/format:webp/0*7kEoxn_Zzjnh9Ilm.png",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ace",
+"url"               :     "https://raw.githubusercontent.com/pancepaki/m3u/master/acestreamsport",
+"import": false
+}, 
+
+{
+"name"              :     "Acestream SPORT 1 ",
+"image"             :     "https://miro.medium.com/v2/resize:fit:720/format:webp/0*7kEoxn_Zzjnh9Ilm.png",
+"url"               :     "https://www.dropbox.com/s/g9amqftb7qte6jx/APP.Bang Pun 004.txt?dl=1",
 "import": false
 }, 
 
 {
 "name"              :     "Acestream SPORT 2",
 "image"             :     "https://www.tech-and-dev.com/blog/wp-content/uploads/2018/07/acestreamlogo.png",
-"url"               :     "https://freenote.biz/raw/mSZLu8oM4f",
+"url"               :     "https://freenote.biz/raw/bBqxytLig4",
 "import": false
 }, 
 
