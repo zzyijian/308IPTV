@@ -323,8 +323,15 @@
 
 {
 "name"              :     "Acestream SPORT",
-"image"             :     "https://www.tech-and-dev.com/blog/wp-content/uploads/2018/07/acestreamlogo.png",
+"image"             :     "https://miro.medium.com/v2/resize:fit:720/format:webp/0*7kEoxn_Zzjnh9Ilm.png",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/ace",
+"import": false
+}, 
+
+{
+"name"              :     "Acestream SPORT 2",
+"image"             :     "https://www.tech-and-dev.com/blog/wp-content/uploads/2018/07/acestreamlogo.png",
+"url"               :     "https://freenote.biz/raw/mSZLu8oM4f",
 "import": false
 }, 
 
