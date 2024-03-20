@@ -1,7 +1,6 @@
 {
   "name": "ซีรี่ย์",
   "author": "เจียว เจียว อัพวันที่ 06 มีนาคม 2567",
-  "info": "ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย",
   "image": "https://ezmovie.co/build/web/ez-movie/img/ez-movie-logo.png?v=3",
   "groups": [
  {
@@ -1133,7 +1132,7 @@
           "info": "พากย์ไทย",
           "url": "https://free100.co/cli-uploader/the-walking-dead-s10e22-here-s-negan-1668854404/entry_the-walking-dead-s10e22-here-s-negan.m3u8",
           "referer": "https://ezmovie.co/"
-      }
+}
       ]
     }
   ]
