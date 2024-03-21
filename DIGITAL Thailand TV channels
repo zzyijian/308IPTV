@@ -324,21 +324,13 @@ https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/bein2premiumarab/pla
 #EXTVLCOPT:http-referrer=https://365liveball.com/
 https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/bein3premiumarab/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-id="ARENASPORT 1" tvg-name="ARENASPORT 1" group-title="Digital TV"  tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/arenasport1.jpg"",ARENASPORT 1
+#EXTINF:-1 tvg-chno="7" tvg-id="Sport TV 1" tvg-name="Sport TV 1" group-title="Digital TV"  tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sport-tv-1.jpg"",Sport TV 1
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/live/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport1/playlist.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv1/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-id="ARENASPORT 2" tvg-name="ARENASPORT 3" group-title="Digital TV"  tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/arenasport2.jpg"",ARENASPORT 2
+#EXTINF:-1 tvg-chno="7" tvg-id="Sport TV 2" tvg-name="Sport TV 2" group-title="Digital TV"  tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sport-tv-2.jpg"",Sport TV 2
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/live/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport2/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="7" tvg-id="ARENASPORT 3" tvg-name="ARENASPORT 3" group-title="Digital TV"  tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/arenasport3.jpg"",ARENASPORT 3
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/live/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport3/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="7" tvg-id="ARENASPORT 4" tvg-name="ARENASPORT 4" group-title="Digital TV"  tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/arenasport4.jpg",ARENASPORT 4
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/live/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport4/playlist.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-id="MUTV" tvg-name="MUTV" group-title="Digital TV"  tvg-logo="https://i.imgur.com/rEKrUL5.png",MUTV
 #EXTVLCOPT:http-referrer=
