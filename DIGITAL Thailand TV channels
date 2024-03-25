@@ -336,6 +336,10 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv2/playlist.m3u8
 #EXTVLCOPT:http-referrer=
 https://bcovlive-a.akamaihd.net/rf30937cd87114adaae6e83d15d5f6808/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
+#EXTINF:-1 tvg-chno="7" tvg-id="LFCTV " tvg-name="MUTV" group-title="Digital TV"  tvg-logo="https://sv1.picz.in.th/images/2023/03/20/eJlf6z.png",LFCTV 
+#EXTVLCOPT:http-referrer=
+https://streaming.livescorethai.net/iptv/uk-lfctv.stream/chunks.m3u8|Referer=https://freetvdd.com/
+
 
 #EXTINF:-1 tvg-chno="7" tvg-id="T-Sports7.th" tvg-name="T-Sports7" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nk1Xcfvia1xq0suAzJTabhrpSvS0bk_hIA&usqp=CAU",T-Sports7
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
