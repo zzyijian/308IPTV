@@ -127,6 +127,14 @@
 "import": true
 },
 
+{ "name": "⚽︎⚽︎อัพเดทกีฬาสด ดูบอลทุกลีกดัง⚽︎⚽︎",
+"image": "https://i.postimg.cc/grF99RyC/Livefootball.png",
+"imageScale": "fitStart",
+"url": "https://2nud.short.gy/livestream.w3u",
+"info":"ดูบอลทุกลีกดัง",
+"import": false
+},
+
 {
 "name": "MOVIE หนังรวมจากสมาชิกแบ่งปัน ",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVSg3Cjt6iGTa8kL5NCViHeGOcYo-PDV8QHTFFPGTyELWSEm9Kd5fDeTx6iEe7tbIULPM&usqp=CAU",
