@@ -148,6 +148,8 @@
 "import": true
 }, 
 
+
+
 {
 "name": "Jake Movies 2",
 "author": "UPDATE 28/01/2024",
@@ -411,6 +413,12 @@
 "import": true
 },
 
+{
+"name": "ข่าวต่างประเทศ",
+"image": "https://media.tenor.com/YNp5t_lLA2oAAAAC/breaking-news-news.gif",
+"url": "https://drive.google.com/uc?export=download&id=1jmHc88NSD92R1GRfEeuoHKSQjQH2iEM6",
+"import": "true"
+},
 
 {
 "name": "INTER Channel  ",
