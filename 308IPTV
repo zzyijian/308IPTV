@@ -156,6 +156,13 @@
 "import": true
 }, 
 
+{"name":"GROUP หนัง-ซีรีย์ น่าดู MOVIES ",
+"author":" สมาชิก  ",
+"info": "",   
+"image":"https://www.pngitem.com/pimgs/m/301-3014574_popcorn-cinema-png-download-movie-popcorn-transparent-background.png",
+"url"               :     "https://pastebin.com/raw/RM4mSXR6",
+"import": true
+},
 
 
 {
@@ -202,13 +209,6 @@
 "name": "MOOSEVEN FREE ",
 "image": "https://pngimg.com/uploads/free/free_PNG90775.png",
 "url": "https://bit.ly/MixLifePlay112",
-"import": true
-},
-
-{"name":"หนัง-ซีรีย์ น่าดู MOVIES ",
-"author":" สมาชิก  ",
-"info": "",   "image":"https://sv1.picz.in.th/images/2023/07/25/MP7sxE.png",
-"url"               :     "https://pastebin.com/raw/RM4mSXR6",
 "import": true
 },
 
@@ -371,11 +371,11 @@
 
 
 {
-				"name": "♥ 🇹🇭 Inter Sport 🇹🇭♥",
-				"image": "https://i.pinimg.com/originals/fe/e9/38/fee93884c8fbde669046d558d9c93141.jpg",
-				"url": "https://www.dropbox.com/s/vxnur14lbw5ks2b/inter-sports.txt?dl=1",
-				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
-	"import": true
+"name": "♥ 🇹🇭 Inter Sport 🇹🇭♥",
+"image": "https://i.pinimg.com/originals/fe/e9/38/fee93884c8fbde669046d558d9c93141.jpg",
+"url": "https://www.dropbox.com/s/vxnur14lbw5ks2b/inter-sports.txt?dl=1",
+"info": "ฟรี!!",
+"import": true
 },
 
 
