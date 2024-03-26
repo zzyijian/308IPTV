@@ -445,16 +445,9 @@
 },
 
 {
-"name": "INTER Channel  ",
-"image": "https://st.depositphotos.com/1265075/3151/i/950/depositphotos_31518521-stock-photo-international-global-business-concept.jpg",
-"url": "https://iptv-org.github.io/iptv/index.country.m3u",
-"import": true
-},
-
-{
 "name": "International Channel  ",
 "image": "https://aei.u-pec.fr/medias/photo/langues-vivantes-etrangeres-1200-800_1645104803888-jpg?ID_FICHE=241470",
-"url": "https://iptv-org.github.io/iptv/countries/int.m3u",
+"url": "https://iptv-org.github.io/iptv/index.country.m3u",
 "import": true
 },
 
@@ -466,7 +459,7 @@
 }, 
  
 {
-"name": "World Television Channel 2  ",
+"name": "World entertainment Television Channel 2  ",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPntZCSwMsiWg2MkyoSg_he-OJuEph7YxaQ_5q8ki8hhSvYFqhGEocAAp0mfROuenDCTs&usqp=CAU",
 "url": "https://iptv-org.github.io/iptv/categories/entertainment.m3u",
 "import": true
@@ -488,19 +481,12 @@
 
 
 {
-"name": "MUSIC Channel",
-"image": "https://cdn.icon-icons.com/icons2/544/PNG/512/Radio_icon-icons.com_53189.png",
+"name": "MUSIC THAILAND Channel",
+"image": "https://i.gifer.com/Yzg5.gif",
 "url": "https://pastebin.com/raw/XEBsKWZr",
 "import": true
 },
 
-
-{
-"name": "MUSIC Channel HONK ",
-"image": "https://i.gifer.com/Yzg5.gif",
-"url": "https://pastebin.com/raw/grHPK0Bk",
-"import": true
-},
 
 
 {
