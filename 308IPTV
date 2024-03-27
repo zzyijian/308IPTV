@@ -192,6 +192,12 @@
 "import": true
 }, 
 
+{
+"name": "รวมกีฬาดูบอล ช่องกีฬา True Sport Update",
+"image": "https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",
+"url": "https://raw.githubusercontent.com/308IPTV/308IPTV/main/Sport%20ch",
+"import": true
+},
 
 {
 "name": " DOCUMENTARY สารคดี ",
@@ -244,14 +250,6 @@
 "import": "true"
 },
 
-
-
-{
-"name": "รวมกีฬาดูบอล ช่องกีฬา True Sport Update",
-"image": "https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",
-"url": "https://raw.githubusercontent.com/308IPTV/308IPTV/main/Sport%20ch",
-"import": true
-},
 
 
 {
