@@ -1,0 +1,551 @@
+{
+"name": "ดูหนังกลุ่มแบ่งปัน",
+"author": "",
+"image": "https://i0.wp.com/media2.giphy.com/media/3osxYzXXuBSzXZ1Np6/giphy.gif",
+"url": "",
+"info": "หนังใหม่ใส่เอง",
+"groups":
+[
+
+{
+"name": "Movies",
+"image": "https://t4.ftcdn.net/jpg/02/54/00/11/360_F_254001186_jzGwlJGEugIjrSn8Bj7jURNEoQEUAJKk.jpg",
+	"author": "ลิงค์ใส่ได้ครั้งเดียวห้ามลบ",
+"info": "Hero",
+"url": "https://pastebin.com/raw/1efFjt9T",
+"import": false 
+},
+
+{
+"name": "Series",
+"image": "https://t4.ftcdn.net/jpg/02/54/00/11/360_F_254001186_jzGwlJGEugIjrSn8Bj7jURNEoQEUAJKk.jpg",
+	"author": "ลิงค์ใส่ได้ครั้งเดียวห้ามลบ",
+"info": "Hero",
+"url": "https://pastebin.com/raw/nkAafCCK",
+"import": false 
+},
+
+{
+"name": "ฺซีรีย์ ONE PIECE วันพีซ (2023) (SEASON 1)",
+"author": "--------",
+"image": "https://static.wikia.nocookie.net/logopedia/images/d/d2/One_Piece_2023_%28Netflix_Series%29.png/revision/latest?cb=20230403153921",
+"url": "https://pastebin.com/raw/x4NBrL90",
+"import": false 
+},
+
+
+{
+"name": "Anime",
+"image": "https://t4.ftcdn.net/jpg/02/54/00/11/360_F_254001186_jzGwlJGEugIjrSn8Bj7jURNEoQEUAJKk.jpg",
+	"author": "ลิงค์ใส่ได้ครั้งเดียวห้ามลบ",
+"info": "Hero",
+"url": "https://pastebin.com/raw/rAwj0rXL",
+"import": false 
+},
+
+{
+"name": "Series-indy",
+"image": "https://sv1.picz.in.th/images/2023/05/10/yL3U7Q.gif",
+"author": "Update 3-11-2023",
+"url": "https://pastebin.com/raw/jTb2qaM5",
+"import": false 
+},
+
+{
+"name": "หนัง",
+"author": "SuperMovie",
+"image": "https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
+"url": "https://docs.google.com/uc?export=download&id=1O1YWCtWgsbbkCjIM18j-Wr86cgrjrkVV",
+"import": "true"
+},
+
+{
+"name": "ซีรี่ย์",
+"author": "SuperMovie",
+"image": "https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
+"url": "https://docs.google.com/uc?export=download&id=1GkuV1iE4E-sXHk09kPHQK3WiQIjGthc7",
+"import": "true"
+},
+
+{
+"name": "Netflix",
+"author": "SuperMovie",
+"image": "https://mpics.mgronline.com/pics/Images/562000004025601.JPEG",
+"url": "https://docs.google.com/uc?export=download&id=1fZ7l9YpaWb6bEU55Sr19svh2HF_vO97a",
+"import": "true"
+},
+
+{
+"name": "ฺละครไทยย้อนหลัง ",
+"author": "----------------",
+"image": "https://image.winudf.com/v2/image/Y29tLmxha3Jvbi5oZC5hcHBfaWNvbl8wX2Q1YmIyYzY0/icon.png?w=184&fakeurl=1",
+"url": "https://raw.githubusercontent.com/tongtjc/lakorn/main/lakorn",
+"import": false 
+},
+
+
+{
+ "name": "ละครไทยที่จบแล้ว ",
+ "author": "----------------",
+ "info": "Watch Lakorn ที่สุดของคนรักละคร_p1_p100",
+ "image": "https://image.winudf.com/v2/image/Y29tLmxha3Jvbi5oZC5hcHBfaWNvbl8wX2Q1YmIyYzY0/icon.png?w=184&fakeurl=1",
+"url": "https://freenote.biz/raw/Q772dKjR7e",
+"import": "true"
+},
+
+{
+name:"หนังดี@มัก",
+author:"LFC-FAN--------",
+"image": "xxx",
+"url": "https://pastebin.com/raw/53q1vbah",
+"import": "true"
+},
+
+
+{
+name:"หนังรวมๆหลายๆอย่าง",
+author:"xxxfreexxx",
+"image": "xxx",
+"url": "https://freenote.biz/raw/h4qshe8xF5",
+"import": "true"
+},
+
+
+{
+name:"หนังรวมๆหลายๆอย่างSPStudio",
+author:"xxxfreexxx",
+"image": "xxx",
+"url": "https://pastebin.com/raw/XPJHeeS7",
+"import": "true"
+},
+
+{
+"name": "รวมค่ายSPStudio",
+"author": "xcxvcxvx",
+"image": "https://cdn.pic.in.th/file/picinth/PNG.png",
+"url": "https://pastebin.com/MpCTPXFy",
+"import": "true"
+},
+
+{
+"name"              :     "หนังฝรั่ง",
+"image"             :     "https://s.isanook.com/mv/0/ud/6/31787/ten-bo1.jpg",
+"url"               :     "https://freenote.biz/raw/1Mqa23H4Xb",
+"import": "true"
+},
+
+{
+"name"              :     "หนังฝรั่ง 123 HD ",
+"image"             :     "https://s.isanook.com/mv/0/ud/6/31787/ten-bo1.jpg",
+"url"               :     "https://freenote.biz/raw/bQjyVHLpWy",
+"import": "true"
+},
+
+{
+"name"              :     "หนัง KM Anime ANIME  ",
+"image"             :     "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A2357-63.jpg",
+"url"               :     "https://freenote.biz/raw/OzqXAx3Thk",
+"import": "true"
+},
+
+{
+name:"หนังALL FREENOTE ",
+author:"LFC-FAN",
+"image": "xxx",
+"url": "https://freenote.biz/raw/8cejYKX6qC",
+"import": "true"
+}, 
+
+{
+name:"หนังแนว Superhero ",
+author:"freenote",
+"image": "xxx",
+"url": "https://freenote.biz/raw/U2HNjEavNo",
+"import": "true"
+},
+
+{
+name:"หนังMOVIE BY รวมๅ ",
+author:"freenote",
+"image": "xxx",
+"url": "https://freenote.biz/raw/nqAF75v6J7",
+"import": "true"
+},
+
+{
+"name": "A Killer Paradox ",
+"image": "https://f.ptcdn.info/237/083/000/s8w7mumin8LFppP7UK46-o.jpg",
+"url": "https://pastebin.com/raw/15jggAgy",
+"import": true
+},
+
+{ "name": "หนังใหม่",
+"image": "https://img2.pic.in.th/pic/Movies.gif",
+"url" : "https://pastebin.com/raw/CRQwxiSw",
+"import": true
+},
+
+
+
+{
+"name": "วาไรตี้ ไทย ",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSHVzCHfmZdreBR9Y7Eyiy0J3y3i0WCmYuYA&usqp=CAU",
+"imageScale": "centerCrop",
+"url": "https://bit.ly/3D87DNp",
+"import": false 
+},
+
+{ 
+"name": " OLD MOVIE", 
+"author": "MOVIE", 
+"image":"https://media3.giphy.com/media/7zMsa4CDcXY7PEDNGN/giphy.gif",
+"url": "https://drive.google.com/uc?id=1DsG8iWbI8-3i4idV-QcK7qmfn2JLNEOE",
+"import": false 
+},
+
+{
+name:"ฟ้ามีตา",
+author:"",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYQY-L8N4BU0s4J1mP-OJ2MmrbyAKCCKm-rg&usqp=CAU",
+"url": "https://pastebin.com/raw/cPeA9VGm",
+"import": false
+}, 
+
+{
+"name": "     แบ่งปันหนัง",
+"author": "ช่วยกันเพิ่มหนังนะครับ ",
+"image": "https://i.pinimg.com/originals/43/3d/83/433d83f7e481f35245f8c6bb7c7591d8.gif",
+"url": "https://freenote.biz/raw/QsnR1QrmBy",
+"import": false
+},
+ 
+{
+"name": "    CENEMA แบ่งปันหนัง",
+"author": "ช่วยกันเพิ่มหนังนะครับ ",
+"image": "https://i.pinimg.com/originals/43/3d/83/433d83f7e481f35245f8c6bb7c7591d8.gif",
+"url": "https://pastebin.com/raw/arkKZdyx",
+"import": false
+}, 
+
+{
+"name"              :     "หนังและละคร",
+"image"             :     "https://i.imgur.com/vcZm6hA.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/movieS",
+"import": false
+}, 
+
+{
+"name"              :     "หนัง เก่า",
+"image"             :     "https://i.imgur.com/XsMDak4.png",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/old_2022",
+"import": false
+}, 
+
+
+{
+"name"              :     "ซี่รี่ย์ฝรั่ง",
+"image"             :     "https://i.ibb.co/b66Nk7f/01-usa.png",
+"url"               :     "http://tiny.cc/ubj4vz",
+"import": false
+}, 
+
+{
+"name"              :     "ซีรี่ย์เกาหลี",
+"image"             :     "https://i.ibb.co/PMFPRyb/01.png",
+"url"               :     "http://tiny.cc/vbj4vz",
+"import": false
+}, 
+
+{
+"name"              :     "ละครไทย ย้่อนหลัง ",
+"image"             :     "https://st-th-1.byteark.com/assets.punpro.com/cover-contents/i36812/1654830661760-%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/lakorn",
+"import": false
+}, 
+
+{
+"name": "ซีรีย์ที่ชอบ",
+"image": "https://media.tenor.com/JGun3CoOzG4AAAAC/seriess.gif",
+"url": "https://dl.dropboxusercontent.com/s/w31kqp7mlk17njm/%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD%202022.txt?dl=1",
+"import": false
+},
+
+{
+"name": "หนังหนังหนัง",
+"image": "https://i0.wp.com/media2.giphy.com/media/3osxYzXXuBSzXZ1Np6/giphy.gif",
+"url": "https://dl.dropboxusercontent.com/s/bh1uditiqrkgh0t/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8A%E0%B8%AD%E0%B8%9A.txt?dl=1",
+"import": false
+}, 
+
+{
+	"name":"ซีรี่ย์ฝรั่ง", 
+	"image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"url":"https://raw.githubusercontent.com/main-main-main/main/main-main-main-main-main-main-main-main-main-main-main/main/main/main/main/main/main/seriesday_%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87.w3u",
+	"import":"false"
+  },
+  {
+	"name":"ซีรี่ย์ญี่ปุ่น", 
+	"image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"url":"https://raw.githubusercontent.com/main-main-main/main/main-main-main-main-main-main-main-main-main-main-main/main/main/main/main/main/main/seriesday_%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99.w3u",
+	"import":"false"
+  },
+  {
+	"name":"ซีรี่ย์เกาหลี", 
+	"image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"url":"https://raw.githubusercontent.com/main-main-main/main/main-main-main-main-main-main-main-main-main-main-main/main/main/main/main/main/main/seriesday_%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B5.w3u",
+	"import":"false"
+  },
+
+ {
+	"name":"ซีรี่ย์เกาหลี", 
+	"image":"",
+	"url":"https://freenote.biz/raw/oKfGpmDBp3",
+	"import":"false"
+  },
+
+  {
+	"name":"ซีรี่ย์จีน", 
+	"image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"url":"https://raw.githubusercontent.com/main-main-main/main/main-main-main-main-main-main-main-main-main-main-main/main/main/main/main/main/main/seriesday_%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99.w3u",
+	"import":"false"
+  },
+
+{
+"name": "ซีรีย์จีน",
+"image": "https://sv1.picz.in.th/images/2021/03/02/ovfspa.jpg",
+"url": "https://freenote.biz/raw/ens51HMJfP",
+"import": false
+},
+
+
+
+{
+	"name":"other", 
+	"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp9vhW4lzt40QN5aLNGLSJWErUbkzZjtrCSQ&usqp=CAU",
+	"url":"https://raw.githubusercontent.com/main-main-main/main/main-main-main-main-main-main-main-main-main-main-main/main/main/main/main/main/main/main.w3u",
+	"import":"false"
+  },
+
+{
+ "name":"ละครไทยจบแล้ว 1",
+ "author": "",
+ "image": "https://drive.google.com/uc?id=1Fd6h3oK-CHvGp6ET2BO1WYo2LcNxcR4F",
+ "url": "https://pastebin.com/raw/2satKKaC",
+ "import": false
+}, 
+{
+ "name":"ละครไทยจบแล้ว 2",
+ "author": "",
+ "image": "https://drive.google.com/uc?id=1FgJAaqu60uJkt2KLgmhdlzZ7SWMuw7Tl",
+ "url": "https://drive.google.com/uc?id=1JiUsrAZTX5w4YwNzl2fljIwpfGC5Fi9-",
+ "import": false
+}, 
+
+
+ {
+name	: "KOREᗩ 🇰🇷 ",
+image	: "https://image.winudf.com/v2/image/Y29tLmVsYWJzZGV2YnJhemlsLnNlcmllc3R2X3NjcmVlbl8wXzE1MTI2OTYyMDlfMDA4/screen-0.jpg?fakeurl=1&type=.webp",
+url			: 	"https://drive.google.com/uc?id=1qmLhvFrxYnKnbJR4lSdI8f1bcSJuk3Rm"
+},
+ 
+{
+name		: "CHINᗩ 🇨🇳",
+author		: "3ᓮᖇↁ.ᵀᵉᵃᵐ",
+image	: "https://image.winudf.com/v2/image/Y29tLmVsYWJzZGV2YnJhemlsLnNlcmllc3R2X3NjcmVlbl8wXzE1MTI2OTYyMDlfMDA4/screen-0.jpg?fakeurl=1&type=.webp",
+url			: 	"https://drive.google.com/uc?id=1qhtCTYYOvh46KzmBYFjHIFHAsqf-oyXb"
+},
+ 
+ 
+{
+name		: "INTER 🏴‍☠",
+image	: "https://image.winudf.com/v2/image/Y29tLmVsYWJzZGV2YnJhemlsLnNlcmllc3R2X3NjcmVlbl8wXzE1MTI2OTYyMDlfMDA4/screen-0.jpg?fakeurl=1&type=.webp",
+author		: "3ᓮᖇↁ.ᵀᵉᵃᵐ",
+url			: 	"https://drive.google.com/uc?id=1qkm-oY1BKzn8afmWKAnIbr_mvFWQp8B3"
+},
+
+{
+"name"              :     "🎞link ชาวบ้าน Series คุณ อุ๋งๆ",
+"image"             :     "https://dl.dropboxusercontent.com/scl/fi/rjog7taill6t5mp1451sg/p_P.png?rlkey=iq4xe1kr64zj85mc4544su12f&dl=0",
+"url"               :     "https://raw.githubusercontent.com/main-main-main/main/main-main-main-main-main-main-main-main-main-main-main/main/main/main/main/main/main/%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A7%20%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A7.txt",
+"import": false
+},
+ 
+{
+"name"              :     "🎞link ชาวบ้าน SPORT",
+"image"             :     "https://dl.dropboxusercontent.com/scl/fi/rjog7taill6t5mp1451sg/p_P.png?rlkey=iq4xe1kr64zj85mc4544su12f&dl=0",
+"url"               :     "https://pastebin.com/raw/NC3uhUTd",
+"import": false
+},
+ 
+
+{
+"name"              :     "🎞link ชาวบ้านMovie",
+"image"             :     "https://dl.dropboxusercontent.com/scl/fi/rjog7taill6t5mp1451sg/p_P.png?rlkey=iq4xe1kr64zj85mc4544su12f&dl=0",
+"url"               :     "https://pastebin.com/p0tB8rKx",
+"import": false
+},
+ 
+{
+"name"              :     "🎞link ชาวบ้าน LuxdoTV",
+"image"             :     "https://dl.dropboxusercontent.com/scl/fi/rjog7taill6t5mp1451sg/p_P.png?rlkey=iq4xe1kr64zj85mc4544su12f&dl=0",
+"url"               :     "https://pastebin.com/p0tB8rKx",
+"import": false
+},
+
+{
+"name": " รวม Movie 1",
+"image": "https://sv1.picz.in.th/images/2021/12/01/6RO66l.jpg",
+"url": "https://drive.google.com/uc?id=19xrlpnj0HzP8XykAVfnmQTaBrNKRG8U0",
+                                                                                                                                                                                    "import": false},
+
+                                                                                                   {
+"name": " รวม Series",
+"image": "https://sv1.picz.in.th/images/2021/12/19/6pkBNI.webp",
+"url": "https://bit.ly/3LxERYB",
+                                                                                                                                                                                       "import": false},
+
+
+{
+"name": " Movie 2022",
+"author": "RaMielz",
+"image":"https://www.goodtipit.com/wp-content/uploads/2021/08/moives2022.jpg",
+"url": "https://freenote.biz/raw/HlsHYlzBiX",
+"import": "true"},
+
+{"name": "อัพเดทเป็นพัก-พัก ",
+"image": "https://media.tenor.com/E7HT0L0wlAgAAAAC/update-beat.gif",
+"url": "https://freenote.biz/raw/PGOXbWg1V1",
+"import": false },
+{"name": " ฝรั่ง ",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/285px-Flag_of_the_United_States.svg.png",
+"imageScale": "centerCrop",
+"url": "https://bit.ly/3NL6rVc",
+"import": false },
+{"name": " ฝรั่ง [จบ] ",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/285px-Flag_of_the_United_States.svg.png",
+"imageScale": "centerCrop",
+"url": "https://www.dropbox.com/s/drkggndse6o1c9q/ซีรีย์ฝรั่ง จบ.txt?dl=1",
+"import": false },
+{"name": " Series Collection",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc5QHhJmuvrDhzH0qZi-OB8r8gpZRZYulaWg&usqp=CAU",
+"imageScale": "centerCrop",
+"url": "https://bit.ly/3EzKmEY",
+"import": false },
+{"name": " เกาหลี ออนแอร์ ",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGqTTUeduD_g3BSAjSj9DoD0TkHvEwMJXGqg&usqp=CAU",
+"imageScale": "centerCrop",
+"url": "https://www.dropbox.com/s/94d62kg6qkt7udg/เกาหลี ออนไลน์.txt?dl=1",
+"import": false },
+{"name": " เกาหลี จบจบ ",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGqTTUeduD_g3BSAjSj9DoD0TkHvEwMJXGqg&usqp=CAU",
+"imageScale": "centerCrop",
+"url": "https://www.dropbox.com/s/fvp2guox86ayc2h/ซีรีย์เกาหลี จบ.txt?dl=1",
+"import": false },
+{"name": " ญี่ปุ่น ออนแอร์ ",
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_Japan_bordered.png",
+"imageScale": "centerCrop",
+"url": "http://bit.ly/3THOisJ",
+"import": false },
+{"name": " ญี่ปุ่น [จบ]",
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_Japan_bordered.png",
+"imageScale": "centerCrop",
+"url": "http://bit.ly/3U4qWxD",
+"import": false },
+{"name": " จีน ",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ACM_Vk_UnJavg3IIPIwiPTT-86c9HG4ONw&usqp=CAU",
+"imageScale": "centerCrop",
+"url": "https://www.dropbox.com/s/b7unlyfw9g42t2p/ซีรีย์จีน3.txt?dl=1",
+"import": false },
+{"name": " จีน [จบ]",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ACM_Vk_UnJavg3IIPIwiPTT-86c9HG4ONw&usqp=CAU",
+"imageScale": "centerCrop",
+"url": "https://www.dropbox.com/s/vajug90ewg1zmp4/ซีรีย์จีน จบ.txt?dl=1",
+"import": false },
+{"name": " ไทย ",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSHVzCHfmZdreBR9Y7Eyiy0J3y3i0WCmYuYA&usqp=CAU",
+"imageScale": "centerCrop",
+"url": "https://www.dropbox.com/s/9176r84lirhcf5x/ซีรีย์ไทย.txt?dl=1",
+"import": false },
+{"name": " ไทย [จบ] ",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSHVzCHfmZdreBR9Y7Eyiy0J3y3i0WCmYuYA&usqp=CAU",
+"imageScale": "centerCrop",
+"url": "",
+"import": false },
+
+
+{
+"name": "MOVIE",
+"image": "https://i.gifer.com/XiPu.gif",
+"url": "https://pastebin.com/cZ01eqEV",
+"import": false },
+ {
+"name": "SERIES",
+"image": "https://i.gifer.com/XiPu.gif",
+"url": "https://pastebin.com/re3i4xHy",
+"import": false },
+{
+"name": "🍄 หนังใหม่ v2 📽️",
+"image": "https://i.gifer.com/XiPu.gif",
+"url": "https://bit.ly/3ODcBHM",
+"import": false },
+{
+"name": "หนังไทย New 🤔 ",
+"image": "https://i.gifer.com/XiPu.gif",
+"url": "https://bit.ly/3qNFMQq",
+"import": false },
+{
+"name": "หนังใหม่ v1",
+"image": "https://i.gifer.com/XiPu.gif",
+"url": "https://bit.ly/3BgDH1b",
+"import": false },
+{
+"name": "หนังสงคราม",
+"image": "https://i.gifer.com/XiPu.gif",
+"url": "https://www.dropbox.com/scl/fi/knqsc0uxa1umj00umdhqz/.w3u?rlkey=35m1l7biqackcd3qgxdu10954&dl=1",
+"import": false },
+{
+"name": "การ์ตูน",
+"image": "https://i.gifer.com/XiPu.gif",
+"url": "https://bit.ly/440LIE1",
+"import": false },
+{
+"name": "หนังเก่า 2022",
+"image": "https://i.gifer.com/XiPu.gif",
+"url": "https://www.dropbox.com/s/fek5bl3qnguc6ed/________-2022.txt.w3u?dl=1",
+"import": false },
+{
+"name": "หนังเก่า 2021",
+"image": "https://i.gifer.com/XiPu.gif",
+"url": "https://www.dropbox.com/s/n5x41q1gaob85uq/________-2021.txt.w3u?dl=1",
+"import": false },
+{
+"name": "หนังเก่า 2020",
+"image": "https://i.gifer.com/XiPu.gif",
+"url": "https://www.dropbox.com/s/ex12w1rv6064yah/________-2020.txt.w3u?dl=1",
+"import": false },
+{
+"name": "หนังเก่า 2019",
+"image": "https://i.gifer.com/XiPu.gif",
+"url": "https://www.dropbox.com/s/s8sve546zyg6gq1/________-2019.txt.w3u?dl=1",
+"import": false },
+{
+"name": "Western หนังตะวันตก(คาวบอย) ",
+"image": "https://i.gifer.com/XiPu.gif",
+"url": "https://www.dropbox.com/s/ee6m7nl4jvx9rj4/Movie_western.w3u?dl=1",
+"import": false },
+{
+"name": "หนังอินเดีย",
+"image": "https://i.gifer.com/XiPu.gif",
+"url": "https://www.dropbox.com/s/07h5tx07u603i24/Movie_nung2hdd_cinema-india.w3u?dl=1",
+"import": false },
+{
+"name": "หนังThai",
+"image": "https://i.gifer.com/XiPu.gif",
+"url": "https://www.dropbox.com/s/h74q4895pahhbm1/123-hd_%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2.w3u.txt?dl=1",
+"import": false },
+
+
+]}
+]}
+]}
+]}
