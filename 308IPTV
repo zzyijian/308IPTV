@@ -14,7 +14,7 @@
 },
 
 {
-"name": "Thailand Playlist FREE TV BY PANUPON  ",
+"name": "Thailand Playlist FREE TV BY ME IPTV  ",
 "image": "https://www.india.com/wp-content/uploads/2019/10/point7.gif",
 "url": "https://raw.githubusercontent.com/308IPTV/308IPTV/main/DIGITAL%20Thailand%20TV%20channels",
 "import": true
@@ -120,9 +120,18 @@
 "import": true
 }, 
 
-{
-"name": "🟢รายการช่องสดLIVE🟢ใส่เอง",
+
+{ "name": "🟢รายการช่องสดLIVE🟢ใส่เอง",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSmMTo3sDsILvyWr4YaTji5-DXc4hxrTaaCLWXbgDFo8L9YcuS5iCctGxiQWNveDbtBig&usqp=CAU",
+"url": " https://pastebin.com/raw/MM0sr2Dt",
+"info":"xxxxxxxxxxxx",
+"import": false
+},
+
+{
+"name": "⚽︎⚽︎🟨อัพเดทกีฬาสด ดูบอลทุกลีกดัง⚽︎⚽︎",
+"image": "https://i.postimg.cc/grF99RyC/Livefootball.png",
+"imageScale": "fitStart",
 "url": "https://pastebin.com/raw/D2Fyyrrg",
 "import": true
 },
@@ -135,7 +144,7 @@
 "import": false
 },
 
-{ "name": "⚽︎⚽︎🟨อัพเดทกีฬาสด ดูบอลทุกลีกดัง⚽︎⚽︎",
+{ "name": "🟢รายการช่องสดLIVE🟢ใส่เอง",
 "image": "https://i.postimg.cc/grF99RyC/Livefootball.png",
 "imageScale": "fitStart",
 "url": "https://2nud.short.gy/livestream.w3u",
