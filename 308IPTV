@@ -143,6 +143,20 @@
 "import": false
 },
 
+{
+"name": "ดูหนังกลุ่มแบ่งปัน MOVIE & SERIES GROUP ",
+"image": "https://www.dailynews.co.th/wp-content/uploads/2023/07/%E0%B8%AA%E0%B8%81%E0%B8%B9%E0%B9%8A%E0%B8%9B-26-07-66-768x433.jpg",
+"url": "https://raw.githubusercontent.com/308IPTV/308IPTV/main/%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%B1%E0%B8%99%20MOVIE",
+"import": true
+}, 
+
+{"name":"GROUP หนัง-ซีรีย์ น่าดู MOVIES ",
+"author":" สมาชิก  ",
+"info": "",   
+"image":"https://www.pngitem.com/pimgs/m/301-3014574_popcorn-cinema-png-download-movie-popcorn-transparent-background.png",
+"url"               :     "https://pastebin.com/raw/RM4mSXR6",
+"import": true
+},
 
 {
 "name": "MOVIE หนังรวมจากสมาชิกแบ่งปัน ",
@@ -166,21 +180,6 @@
 "import": false
 }, 
 
-{
-"name": "ดูหนังกลุ่มแบ่งปัน MOVIE & SERIES GROUP ",
-"image": "https://www.dailynews.co.th/wp-content/uploads/2023/07/%E0%B8%AA%E0%B8%81%E0%B8%B9%E0%B9%8A%E0%B8%9B-26-07-66-768x433.jpg",
-"url": "https://raw.githubusercontent.com/308IPTV/308IPTV/main/%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%B1%E0%B8%99%20MOVIE",
-"import": true
-}, 
-
-{"name":"GROUP หนัง-ซีรีย์ น่าดู MOVIES ",
-"author":" สมาชิก  ",
-"info": "",   
-"image":"https://www.pngitem.com/pimgs/m/301-3014574_popcorn-cinema-png-download-movie-popcorn-transparent-background.png",
-"url"               :     "https://pastebin.com/raw/RM4mSXR6",
-"import": true
-},
-
 
 {
 "name": "Jake Movies 2",
@@ -189,7 +188,6 @@
 "url": "https://freenote.biz/raw/jVgKALRvtd",
 "import": "true"
 },
-
 
 
 {
