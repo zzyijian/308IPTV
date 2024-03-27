@@ -52,7 +52,7 @@
 {
 "name": "(IPTV UPDDATE-MOVIE )",
 "author":"(♥ 🇹🇭 IPTV UPDDATE 🇹🇭♥)",
-"image":"https://avatars.githubusercontent.com/u/100044137?v=4"",
+"image":"https://avatars.githubusercontent.com/u/100044137?v=4",
 "url":"https://freenote.biz/raw/gk9psZfSQu",
 "import": "true"
 },
@@ -146,7 +146,8 @@
 "import": true
 }, 
 
-{"name":"GROUP หนัง-ซีรีย์ น่าดู MOVIES ",
+{
+"name":"GROUP หนัง-ซีรีย์ น่าดู MOVIES ",
 "author":" สมาชิก  ",
 "info": "",   
 "image":"https://www.pngitem.com/pimgs/m/301-3014574_popcorn-cinema-png-download-movie-popcorn-transparent-background.png",
@@ -182,7 +183,8 @@
 "import": true
 }, 
 
-{"name":"☢️Th3 RepubliC☢️",
+{
+"name":"☢️Th3 RepubliC☢️",
 "image":"https://drive.google.com/uc?id=1BXPaXWaT-DmScmjmfYMIRTDQXO8K8Tjo",
 "author":"☢️Th3 RepubliC☢️",
 "info":"Th3 RepubliC",
