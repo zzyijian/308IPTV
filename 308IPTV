@@ -302,30 +302,24 @@
 },
 
 {
-"name": "World MOVIE  Television Channel  ",
+"name": "World MOVIE entertainment Television Channel  ",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVhaQDz7zNwGn_WT9akRsywxTZoIZrS7kNiNryQ9SQhAfQ5cMcTlceKSRFcT-OAjUG32c&usqp=CAU",
-"url": "https://iptv-org.github.io/iptv/categories/movies.m3u",
+"url": "https://iptv-org.github.io/iptv/categories/entertainment.m3u",
 "import": true
 }, 
  
 {
-"name": "World entertainment Television Channel 2  ",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPntZCSwMsiWg2MkyoSg_he-OJuEph7YxaQ_5q8ki8hhSvYFqhGEocAAp0mfROuenDCTs&usqp=CAU",
-"url": "https://iptv-org.github.io/iptv/categories/entertainment.m3u",
-"import": true
-}, 
+"name": "Entertainment",
+"author":"(Entertainment)",
+"image":"https://t4.ftcdn.net/jpg/00/96/90/65/360_F_96906535_1ludls0yURJFEeNPxyYQMEMl6FsSqyzi.jpg",
+"url":"https://iptv-org.github.io/iptv/categories/entertainment.m3u",
+"import": "true"
+},
 
 {
 "name": "JAPAN Channel  ",
 "image": "https://i.gifer.com/M3cG.gif",
 "url": "https://pastebin.com/raw/WhrRTN7p",
-"import": true
-},
-
-{
-"name": "CHAINA Channel  ",
-"image": "https://image.roku.com/developer_channels/prod/9495d5f6191df3386fa1deab6071721ba712022c2f26188ecb31c78afe3c3e2c.png",
-"url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
 "import": true
 },
 
@@ -338,9 +332,8 @@
 },
 
 
-
 {
-"name": "Luxdo TheMovieS",
+"name": "Luxdo Streaming TV PL",
 "author": "Luxdo TheMovieS Update 16/07/66 ",
 "image": "https://drive.google.com/uc?id=19oeAX0kf_LxYofdD-G0vj9UPCHdLpHMr",
 "url": "https://pastebin.com/raw/uxC5vqSe",
@@ -348,18 +341,9 @@
 },
 
 {
-"name": "luxDu",
-"image": "https://image.makewebeasy.net/makeweb/0/M1sidwdt1/AboutUs/Dulux_thailand_logo.png",
+"name": "ก๊อปมั๊ยกรุ๊ป MOVIES & Series (สำรอง) ",
+"image": "https://i.giphy.com/JeTRVH2Rj3etGaiaCF.gif",
 "url": "https://freenote.biz/raw/RCUgavSTys",
-"import": "true"
-},
-
-
-{
-"name": "🅶🆄🅵🅻🅸🆇 ",
-"author":"GUFLIX HI",
-"image":"http://guflix.streaming-fast.com/logo/guflix.gif",
-"url":"http://guflix.streaming-fast.com/wiseplay/guflix.html",
 "import": "true"
 },
 
@@ -371,29 +355,6 @@
 "import": "true"
 },
 
-{
-"name": "Entertainment",
-"author":"(Entertainment)",
-"image":"https://t4.ftcdn.net/jpg/00/96/90/65/360_F_96906535_1ludls0yURJFEeNPxyYQMEMl6FsSqyzi.jpg",
-"url":"https://iptv-org.github.io/iptv/categories/entertainment.m3u",
-"import": "true"
-},
-
-{
-"name": "United States IPTV",
-"author":"(United States IPTV)",
-"image":"https://d2v9ipibika81v.cloudfront.net/uploads/sites/58/2016/05/US20Flag20Color20High-1140x684.jpg",
-"url":"https://iptv-org.github.io/iptv/countries/us.m3u",
-"import": "true"
-},
-
-{
-"name": "United Kingdom IPTV",
-"author":"(United States IPTV)",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTffkWA4H8uclQTb4KKNZ7iqvkjzePP6hc-iJ-EYPFPkkMRNgH7wW6PnX21m8T3UheQVqg&usqp=CAU",
-"url":"https://iptv-org.github.io/iptv/languages/eng.m3u",
-"import": "true"
-},
 
 {
 "name": "(♥ 🇹🇭 TEST 🇹🇭♥)",
