@@ -181,12 +181,6 @@ author:"freenote",
 "import": "true"
 },
 
-{
-"name": "A Killer Paradox ",
-"image": "https://f.ptcdn.info/237/083/000/s8w7mumin8LFppP7UK46-o.jpg",
-"url": "https://pastebin.com/raw/15jggAgy",
-"import": true
-},
 
 { "name": "หนังใหม่",
 "image": "https://img2.pic.in.th/pic/Movies.gif",
@@ -195,6 +189,54 @@ author:"freenote",
 },
 
 
+"name": "Series Hit",
+"image": "https://drive.google.com/uc?id=1N94PH1nfLfbmA2Xm6CDzLDDyJJxrhMM9",
+"url": "https://drive.google.com/uc?id=1qejvnsOXNHhiJOW1J5iiSO8ZDFOXh8TD",
+"import": false
+},
+
+{
+"name": "Series USA",
+"image": "https://drive.google.com/uc?id=1yrM9D9-lbbFj7_3tmyxWJevZmAuOL7c0",
+"url": "https://drive.google.com/uc?id=1XvDETctiBxT2deCTYxaCFtpAHg9GXY5p",
+"import": false
+},
+
+{
+"name": "Series Korea",
+"image": "https://cdn4.iconfinder.com/data/icons/world-flags-rounded/900/south_korea_korean_national_country_flag-512.png",
+"url": "https://drive.google.com/uc?id=1kmEg1FSy4Fr42xYYsh8Xi-gaWpPa_HMY",
+"import": false
+},
+
+{
+"name": "Series China",
+"image": "https://drive.google.com/uc?id=1zrHOeGe-zFBxRP-bTspL0MWX737KhIXo",
+"url": "https://drive.google.com/uc?id=1POcfjjs8PCF5IJF91jpwk_uAsfJIU07H",
+"import": false
+},
+
+
+{
+"name": "Series Thai",
+"image": "https://drive.google.com/uc?id=1_9YMymRva4h1eCz81bF4Dp7f20-GH50v",
+"url": "https://drive.google.com/uc?id=13Wlsyq3sd3Tiv8RMHqjGdrg30CRuPW3k",
+"import": false
+},
+
+{
+"name": "Series Japan",
+"image": "https://drive.google.com/uc?id=1j_aWt-ka7JdlxZDFpVnPr3ejHvs5bu6k",
+"url": "https://drive.google.com/uc?id=1wHNlaWMIuux6SdegD6KbyNiZ1am1yn_a",
+"import": false
+},
+
+{
+"name": "Series India",
+"image": "https://drive.google.com/uc?id=1AlBeQxKclp9y0olb6Wot5gnZ802edHAM",
+"url": "https://drive.google.com/uc?id=1lVLK6IzDnBCDf1Fvl9RI_ts1ASb4RW-o",
+"import": false
+},
 
 {
 "name": "วาไรตี้ ไทย ",
@@ -286,38 +328,6 @@ author:"",
 "import": false
 }, 
 
-{
-	"name":"ซีรี่ย์ฝรั่ง", 
-	"image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-	"url":"https://raw.githubusercontent.com/main-main-main/main/main-main-main-main-main-main-main-main-main-main-main/main/main/main/main/main/main/seriesday_%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87.w3u",
-	"import":"false"
-  },
-  {
-	"name":"ซีรี่ย์ญี่ปุ่น", 
-	"image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-	"url":"https://raw.githubusercontent.com/main-main-main/main/main-main-main-main-main-main-main-main-main-main-main/main/main/main/main/main/main/seriesday_%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99.w3u",
-	"import":"false"
-  },
-  {
-	"name":"ซีรี่ย์เกาหลี", 
-	"image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-	"url":"https://raw.githubusercontent.com/main-main-main/main/main-main-main-main-main-main-main-main-main-main-main/main/main/main/main/main/main/seriesday_%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B5.w3u",
-	"import":"false"
-  },
-
- {
-	"name":"ซีรี่ย์เกาหลี", 
-	"image":"",
-	"url":"https://freenote.biz/raw/oKfGpmDBp3",
-	"import":"false"
-  },
-
-  {
-	"name":"ซีรี่ย์จีน", 
-	"image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-	"url":"https://raw.githubusercontent.com/main-main-main/main/main-main-main-main-main-main-main-main-main-main-main/main/main/main/main/main/main/seriesday_%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99.w3u",
-	"import":"false"
-  },
 
 {
 "name": "ซีรีย์จีน",
