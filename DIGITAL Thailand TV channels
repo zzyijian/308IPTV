@@ -348,7 +348,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
 ---------------------------------------
 
 #EXTINF:-1 tvg-chno="17" tvg-id="ปลูกปัญญา" tvg-name="ปลูกปัญญา" group-title="Digital TV" tvg-logo="https://taejai.com/media/news/JRmJ3WGHWsggxwxdVC7x8G.jpg.300x200_q85_crop.jpg",ปลูกปัญญา
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 http://www.trueplookpanya.com/new/tv_live?var_link=720p
 
 #EXTINF:-1 tvg-chno="4" tvg-id="ALTV4.th" tvg-name="ALTV" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/4Bol643617.png",ALTV
