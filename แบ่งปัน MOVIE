@@ -246,14 +246,6 @@ author:"freenote",
 "import": false 
 },
 
-{ 
-"name": " OLD MOVIE", 
-"author": "MOVIE", 
-"image":"https://media3.giphy.com/media/7zMsa4CDcXY7PEDNGN/giphy.gif",
-"url": "https://drive.google.com/uc?id=1DsG8iWbI8-3i4idV-QcK7qmfn2JLNEOE",
-"import": false 
-},
-
 {
 name:"ฟ้ามีตา",
 author:"",
@@ -263,11 +255,11 @@ author:"",
 }, 
 
 {
-"name": "     แบ่งปันหนัง",
+"name": "แบ่งปันหนัง",
 "author": "ช่วยกันเพิ่มหนังนะครับ ",
 "image": "https://i.pinimg.com/originals/43/3d/83/433d83f7e481f35245f8c6bb7c7591d8.gif",
 "url": "https://freenote.biz/raw/QsnR1QrmBy",
-"import": false
+"import": true
 },
  
 {
@@ -275,20 +267,6 @@ author:"",
 "author": "ช่วยกันเพิ่มหนังนะครับ ",
 "image": "https://i.pinimg.com/originals/43/3d/83/433d83f7e481f35245f8c6bb7c7591d8.gif",
 "url": "https://pastebin.com/raw/arkKZdyx",
-"import": false
-}, 
-
-{
-"name"              :     "หนังและละคร",
-"image"             :     "https://i.imgur.com/vcZm6hA.jpg",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/movieS",
-"import": false
-}, 
-
-{
-"name"              :     "หนัง เก่า",
-"image"             :     "https://i.imgur.com/XsMDak4.png",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/old_2022",
 "import": false
 }, 
 
@@ -389,13 +367,6 @@ url			: 	"https://drive.google.com/uc?id=1qkm-oY1BKzn8afmWKAnIbr_mvFWQp8B3"
 "import": false
 },
  
-{
-"name"              :     "🎞link ชาวบ้าน SPORT",
-"image"             :     "https://dl.dropboxusercontent.com/scl/fi/rjog7taill6t5mp1451sg/p_P.png?rlkey=iq4xe1kr64zj85mc4544su12f&dl=0",
-"url"               :     "https://pastebin.com/raw/NC3uhUTd",
-"import": false
-},
- 
 
 {
 "name"              :     "🎞link ชาวบ้านMovie",
@@ -435,63 +406,6 @@ url			: 	"https://drive.google.com/uc?id=1qkm-oY1BKzn8afmWKAnIbr_mvFWQp8B3"
 "image": "https://media.tenor.com/E7HT0L0wlAgAAAAC/update-beat.gif",
 "url": "https://freenote.biz/raw/PGOXbWg1V1",
 "import": false },
-{"name": " ฝรั่ง ",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/285px-Flag_of_the_United_States.svg.png",
-"imageScale": "centerCrop",
-"url": "https://bit.ly/3NL6rVc",
-"import": false },
-{"name": " ฝรั่ง [จบ] ",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/285px-Flag_of_the_United_States.svg.png",
-"imageScale": "centerCrop",
-"url": "https://www.dropbox.com/s/drkggndse6o1c9q/ซีรีย์ฝรั่ง จบ.txt?dl=1",
-"import": false },
-{"name": " Series Collection",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc5QHhJmuvrDhzH0qZi-OB8r8gpZRZYulaWg&usqp=CAU",
-"imageScale": "centerCrop",
-"url": "https://bit.ly/3EzKmEY",
-"import": false },
-{"name": " เกาหลี ออนแอร์ ",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGqTTUeduD_g3BSAjSj9DoD0TkHvEwMJXGqg&usqp=CAU",
-"imageScale": "centerCrop",
-"url": "https://www.dropbox.com/s/94d62kg6qkt7udg/เกาหลี ออนไลน์.txt?dl=1",
-"import": false },
-{"name": " เกาหลี จบจบ ",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGqTTUeduD_g3BSAjSj9DoD0TkHvEwMJXGqg&usqp=CAU",
-"imageScale": "centerCrop",
-"url": "https://www.dropbox.com/s/fvp2guox86ayc2h/ซีรีย์เกาหลี จบ.txt?dl=1",
-"import": false },
-{"name": " ญี่ปุ่น ออนแอร์ ",
-"image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_Japan_bordered.png",
-"imageScale": "centerCrop",
-"url": "http://bit.ly/3THOisJ",
-"import": false },
-{"name": " ญี่ปุ่น [จบ]",
-"image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_Japan_bordered.png",
-"imageScale": "centerCrop",
-"url": "http://bit.ly/3U4qWxD",
-"import": false },
-{"name": " จีน ",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ACM_Vk_UnJavg3IIPIwiPTT-86c9HG4ONw&usqp=CAU",
-"imageScale": "centerCrop",
-"url": "https://www.dropbox.com/s/b7unlyfw9g42t2p/ซีรีย์จีน3.txt?dl=1",
-"import": false },
-{"name": " จีน [จบ]",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ACM_Vk_UnJavg3IIPIwiPTT-86c9HG4ONw&usqp=CAU",
-"imageScale": "centerCrop",
-"url": "https://www.dropbox.com/s/vajug90ewg1zmp4/ซีรีย์จีน จบ.txt?dl=1",
-"import": false },
-{"name": " ไทย ",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSHVzCHfmZdreBR9Y7Eyiy0J3y3i0WCmYuYA&usqp=CAU",
-"imageScale": "centerCrop",
-"url": "https://www.dropbox.com/s/9176r84lirhcf5x/ซีรีย์ไทย.txt?dl=1",
-"import": false },
-{"name": " ไทย [จบ] ",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSHVzCHfmZdreBR9Y7Eyiy0J3y3i0WCmYuYA&usqp=CAU",
-"imageScale": "centerCrop",
-"url": "",
-"import": false },
-
-
 {
 "name": "MOVIE",
 "image": "https://i.gifer.com/XiPu.gif",
